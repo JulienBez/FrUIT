@@ -1,0 +1,457 @@
+[
+    {
+        "tweet": "@BernadettePill2 Au nom de la liberté... égalité... fraternité peut-être. Tous égaux.",
+        "metadata": {
+            "id": 1449837321034031105,
+            "user": "eloisemaillot",
+            "created_at": "2021-10-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8390804597701149
+        }
+    },
+    {
+        "tweet": "Ptdr ma vie en ce moment elle ressemble aux émissions du style « au nom de la vérité ou petit secret en famille »",
+        "metadata": {
+            "id": 1405622015688679424,
+            "user": "__LauraLry",
+            "created_at": "2021-06-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8956521739130435
+        }
+    },
+    {
+        "tweet": "@christine_kelly au nom de la liberté d expression moi ça me fais pas rire ça me fais gerber",
+        "metadata": {
+            "id": 1623700113162919936,
+            "user": "1493533880313339905",
+            "created_at": "2023-02-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.851064
+        }
+    },
+    {
+        "tweet": "@_AgnesMarion Au nom de la liberté fraternité égalité, des symboles qui n'existe plus au France",
+        "metadata": {
+            "id": 1449499302628298754,
+            "user": "OussamaHarssan",
+            "created_at": "2021-10-16",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8556701030927835
+        }
+    },
+    {
+        "tweet": "@hpttscute c quoi ton pays que jvienne le conquerie au nom de la barbe",
+        "metadata": {
+            "id": 1621531235934769157,
+            "user": "1237989864697708544",
+            "created_at": "2023-02-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.833333
+        }
+    },
+    {
+        "tweet": "je crois jai terminer tout les au nom de la vérité",
+        "metadata": {
+            "id": 1622171975664689152,
+            "user": "1590982776685215746",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.769231
+        }
+    },
+    {
+        "tweet": "@HelliaFax @fanch_mrl Je prone la fin des régimes particuliers au nom de la liberté, l'égalité, la fraternité ! 😎",
+        "metadata": {
+            "id": 1538531987580981254,
+            "user": "wibje",
+            "created_at": "2022-06-19",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8782608695652174
+        }
+    },
+    {
+        "tweet": "Les 2 au nom de la liberté, de l’égalité et de la fraternité https://t.co/c8LAgyWY7u",
+        "metadata": {
+            "id": 1527540181997346818,
+            "user": "mohchaabani",
+            "created_at": "2022-05-20",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8372093023255814
+        }
+    },
+    {
+        "tweet": "Au nom de la liberté, de l'égalité et de la fraternité, je vous demande. @EmmanuelMacron @FranceenUkraine @EdePoncins",
+        "metadata": {
+            "id": 1518525856800550912,
+            "user": "FMJ_Grif",
+            "created_at": "2022-04-25",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8823529411764706
+        }
+    },
+    {
+        "tweet": "@SaintMontjoie Par les REPUBLICAINS, au nom de la \" liberté, égalité, fraternité\" !",
+        "metadata": {
+            "id": 1608188275784814592,
+            "user": "rumikiswara",
+            "created_at": "2022-12-28",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8588235294117647
+        }
+    },
+    {
+        "tweet": "@RobinVoisin J'attends que tu me montres ce moment où j'ai parlé au nom de la communauté (je vais attendre longtemps)",
+        "metadata": {
+            "id": 1398279644990816258,
+            "user": "Duckyoxx",
+            "created_at": "2021-05-28",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8991596638655462
+        }
+    },
+    {
+        "tweet": "Wow !!! 😂😂😂 \nC’est au nom de la liberté ,égalité ,fraternité ……\nVive le Pr Emmanuel Macron https://t.co/AncfAzxluf",
+        "metadata": {
+            "id": 1402264750172614658,
+            "user": "BacaryLe",
+            "created_at": "2021-06-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8782608695652174
+        }
+    },
+    {
+        "tweet": "@bouliboulibouli Ces gens en question sont les mêmes qui imposent le voile au nom de la pudeur.",
+        "metadata": {
+            "id": 1600589597985198080,
+            "user": "ThePlaceToPorn",
+            "created_at": "2022-12-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8762886597938144
+        }
+    },
+    {
+        "tweet": "@jenwwo mais c’est le nom de la loi pk t’as la rage 😭",
+        "metadata": {
+            "id": 1622297111495671808,
+            "user": "1432771334157787139",
+            "created_at": "2023-02-05",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.745455
+        }
+    },
+    {
+        "tweet": "@LCP @DEAcampaign @phgosselin Bien dit! S’affranchir des États Unis ! Accueillir Julian au nom de la liberté, égalité, fraternité!",
+        "metadata": {
+            "id": 1460694405422141446,
+            "user": "MoniqueFrchett1",
+            "created_at": "2021-11-16",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8939393939393939
+        }
+    },
+    {
+        "tweet": "Au nom de la liberté fraternité et égalité\nj'aimerai bien voir ça https://t.co/GFdYV6IEZm",
+        "metadata": {
+            "id": 1526360526695157760,
+            "user": "natoubabe",
+            "created_at": "2022-05-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8461538461538461
+        }
+    },
+    {
+        "tweet": "Au nom de la liberté d'expression\nAu nom de l'égalité de traitement\nAu nom de la fraternité 🇨🇵\nRT RT RT https://t.co/sCj2QE5K7M",
+        "metadata": {
+            "id": 1360891482786430977,
+            "user": "Tournicote",
+            "created_at": "2021-02-14",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8914728682170543
+        }
+    },
+    {
+        "tweet": "« au nom de dieu » la honte",
+        "metadata": {
+            "id": 1622525635523477506,
+            "user": "1072613166130098177",
+            "created_at": "2023-02-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.793103
+        }
+    },
+    {
+        "tweet": "@F_Desouche Tous ces #filsdeclovis qui tuent au nom de la paix. Vraiment, ces gens posent problème...",
+        "metadata": {
+            "id": 1504742830241193985,
+            "user": "rickzyke",
+            "created_at": "2022-03-18",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.883495145631068
+        }
+    },
+    {
+        "tweet": "@franceinter @AgnesRunacher Le libéralisme, c'est sacrifier la fraternité et l'égalité au nom de la liberté et de la sécurité !",
+        "metadata": {
+            "id": 1335561046426333187,
+            "user": "barberousselib",
+            "created_at": "2020-12-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8914728682170543
+        }
+    },
+    {
+        "tweet": "Persécutions à l'égard de 6 millions de Français MUSULMANS, au nom de la Liberté, Fraternité et Égalité. https://t.co/JtfsAXNlmZ",
+        "metadata": {
+            "id": 1334940203732135936,
+            "user": "RAMIMahrez1",
+            "created_at": "2020-12-04",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8923076923076924
+        }
+    },
+    {
+        "tweet": "@SamihaBencheik1 @delphin67358787 Au nom de la liberté de l'égalité et de la fraternité on enlève tous les droits d'un peuple.",
+        "metadata": {
+            "id": 1519407872618213376,
+            "user": "MQuetaire",
+            "created_at": "2022-04-27",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.890625
+        }
+    },
+    {
+        "tweet": "@BFMTV Marre de ces gens de la droite molle qui prétendent parler au nom de la gauche #PlusJamaisPS",
+        "metadata": {
+            "id": 1468923702343516162,
+            "user": "clairvoyant_le",
+            "created_at": "2021-12-09",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8811881188118812
+        }
+    },
+    {
+        "tweet": "Ouiii défonce Mujdat Marvin !!!\nFais le au nom de la Liberté, l’Égalité et la Fraternité ! Vive la France\n #LPDL8",
+        "metadata": {
+            "id": 1350169189819019265,
+            "user": "mrsboujee",
+            "created_at": "2021-01-15",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8771929824561403
+        }
+    },
+    {
+        "tweet": "@AnonymeCitoyen Il diffuse sur tf1 une publicité mensongère tous vaccines tous protégés au nom de la liberté égalité fraternité...🤔🤔",
+        "metadata": {
+            "id": 1428430306214912008,
+            "user": "gillet30150673",
+            "created_at": "2021-08-19",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8955223880597015
+        }
+    },
+    {
+        "tweet": "@jiminnissta jetais au courant mais c'est le nom de la loi qui me fait rire faut aller se faire foutre au bout d'un moment",
+        "metadata": {
+            "id": 1622164128545521664,
+            "user": "1538587775372611584",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.887097
+        }
+    },
+    {
+        "tweet": "@spaikuu je parle au nom de la population en disant que nous le voulons tous",
+        "metadata": {
+            "id": 1621178386801463298,
+            "user": "1546191848825298950",
+            "created_at": "2023-02-02",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.846154
+        }
+    },
+    {
+        "tweet": "@yaoxs_ la mme au nom de dieu orange ?",
+        "metadata": {
+            "id": 1623428138414796800,
+            "user": "1347263910613803008",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.85
+        }
+    },
+    {
+        "tweet": "au nom de dieu paris ne touche pas la balle",
+        "metadata": {
+            "id": 1623421898498473988,
+            "user": "1160493637643452416",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.866667
+        }
+    },
+    {
+        "tweet": "@nvmaad tu te permet de faire des choses au nom de la liberté mais ça va \"limiter\" celle de qqn d'autre",
+        "metadata": {
+            "id": 1622957415862833152,
+            "user": "1482338854686408706",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.866667
+        }
+    },
+    {
+        "tweet": "@inss0404 pcq je trouve que le nom de la loi bts est drôle",
+        "metadata": {
+            "id": 1622228371596869634,
+            "user": "1538587775372611584",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.766667
+        }
+    },
+    {
+        "tweet": "@joelle_dago Voilà un beau programme n’est ce pas ? ⤵️\nOn sent l’égalité et la fraternité au nom de la liberté !👏 https://t.co/fUuFN8tBtc",
+        "metadata": {
+            "id": 1495336396508340228,
+            "user": "symptomatique",
+            "created_at": "2022-02-20",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8992805755395683
+        }
+    },
+    {
+        "tweet": "Au nom de la LIBERTÉ, ÉGALITÉ, FRATERNITÉ \n#manifs24juillet\n#NonAuPassDeLaHonte \n#BoycottPassSanitaire https://t.co/VOKV4ESDcw",
+        "metadata": {
+            "id": 1418975415146790917,
+            "user": "BernardodelaVe8",
+            "created_at": "2021-07-24",
+            "retweet_count": 4
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8888888888888888
+        }
+    },
+    {
+        "tweet": "DROIT HUMAIN – Liberté, Egalité, Fraternité … au nom de la laïcité https://t.co/INQGv0urvN",
+        "metadata": {
+            "id": 1323547049892159488,
+            "user": "Lerebondi",
+            "created_at": "2020-11-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8478260869565217
+        }
+    },
+    {
+        "tweet": "@PhilippeMurer Au nom de la tolérance, de la liberté, de l'égalité et de la fraternité, #LFI s'y opposera !",
+        "metadata": {
+            "id": 1544205510806732800,
+            "user": "Dabadie66",
+            "created_at": "2022-07-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "au nom de la loi",
+            "distance": 0.8794233289646134
+        }
+    }
+]

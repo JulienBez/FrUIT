@@ -1,0 +1,756 @@
+[
+    {
+        "tweet": "La #democratie ne saurait être sans le #peuple.\nLe retour à la #Liberté l’#Égalité et la #Fraternité ne sauraient se passer d’une mobilisation générale de celles et ceux qui font notre pays. 🗳️ #Melenchon2022 #MelenchonTours\nhttps://t.co/I5WgYbjJOG",
+        "metadata": {
+            "id": 1489516595005251587,
+            "user": "CVassiviere",
+            "created_at": "2022-02-04",
+            "retweet_count": 4
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8837209302325582
+        }
+    },
+    {
+        "tweet": "En ce moment, les minarets des mosquées de la ville de Naplouse appellent les jeunes palestiniens à une mobilisation générale et à se diriger vers Jabal Sabih, où de violents affrontements ont lieu avec les soldats d'occupation.",
+        "metadata": {
+            "id": 1401534728671531010,
+            "user": "A19263449",
+            "created_at": "2021-06-06",
+            "retweet_count": 171
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8739495798319328
+        }
+    },
+    {
+        "tweet": "@AgnsA8 @CNEWS Z n'est pas Président de l'Ukraine.\n\nAucun rapport avec la choucroute mais c'est pas grave.\n\nConcrètement, vous proposez quoi alors ?\n\nMobilisation générale en France et on va faire la guerre à la Russie en Ukraine ?\n\nOu juste brasser du vent comme en ce moment ?",
+        "metadata": {
+            "id": 1497466889978658817,
+            "user": "marie2solms",
+            "created_at": "2022-02-26",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8943661971830986
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/2DHLXys3Ug",
+        "metadata": {
+            "id": 1550787011803496448,
+            "user": "Cherchristo",
+            "created_at": "2022-07-23",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/Pfjv930VLc",
+        "metadata": {
+            "id": 1557635777395302400,
+            "user": "theataisne",
+            "created_at": "2022-08-11",
+            "retweet_count": 5
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/a6GpONIwcy",
+        "metadata": {
+            "id": 1557627020296740865,
+            "user": "Granny_Petition",
+            "created_at": "2022-08-11",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/YytWAnTsyU",
+        "metadata": {
+            "id": 1557613121757478914,
+            "user": "claudie_lavigne",
+            "created_at": "2022-08-11",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/xWFkLoaY9Q",
+        "metadata": {
+            "id": 1557432168971964416,
+            "user": "Aline_LRK",
+            "created_at": "2022-08-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en #France et poursuivre son travail de cuisinier https://t.co/X6UeP7UT7q",
+        "metadata": {
+            "id": 1557414088464125952,
+            "user": "cedricb42",
+            "created_at": "2022-08-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8922155688622755
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/uiAbYVl2pw",
+        "metadata": {
+            "id": 1557412557299793920,
+            "user": "medicus34",
+            "created_at": "2022-08-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/cMi2dZD5Gi",
+        "metadata": {
+            "id": 1557390652241022977,
+            "user": "Kreuh_insoumise",
+            "created_at": "2022-08-10",
+            "retweet_count": 55
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "@lobs #traduisonsles « la mobilisation d’aujourd’hui est un bide, du coup je vais leur faire le coup de la magnanimité pour essayer de sauver la face»",
+        "metadata": {
+            "id": 1622979465562161153,
+            "user": "419557652",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8875
+        }
+    },
+    {
+        "tweet": "@glyogoma fail il y a une proportion de blanc moindre chez les végans que dans la population générale",
+        "metadata": {
+            "id": 1622600426787930113,
+            "user": "1231615125339168770",
+            "created_at": "2023-02-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.873874
+        }
+    },
+    {
+        "tweet": "Elle sort d’où cette dépression générale la en ce moment ?",
+        "metadata": {
+            "id": 1509804663683502084,
+            "user": "laqueendeluniv1",
+            "created_at": "2022-04-01",
+            "retweet_count": 16
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8529411764705882
+        }
+    },
+    {
+        "tweet": "En ce moment de crise, il nous faut un porte-parole comme Didier Mumengi ou Mende. Plus question de nouveau narratif. Il faut décréter une mobilisation générale et faire appel à tous les vétérans de l'armée. Pas de couleur politique svp, d'abord la RDC.",
+        "metadata": {
+            "id": 1586456352683016192,
+            "user": "ANN64296610",
+            "created_at": "2022-10-29",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8859315589353612
+        }
+    },
+    {
+        "tweet": "@babils Je pense aussi à tous ceux qui ont fui. Suite à la mobilisation ou même avant. Ces gens là avaient des jobs. Comment l'économie tourne sans eux ?",
+        "metadata": {
+            "id": 1582459440426414080,
+            "user": "zetwitty",
+            "created_at": "2022-10-18",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8895705521472392
+        }
+    },
+    {
+        "tweet": "RV samedi 17 juillet à partir de 14h à Paris: Mobilisation générale pour dire non à la Vaccination obligatoire! Défendons la force de nos valeurs: Liberté-Egalité-Fraternité. #Resistance   https://t.co/hazmaMYsdt via @YouTube",
+        "metadata": {
+            "id": 1416056827406655497,
+            "user": "dlf_cotesdarmor",
+            "created_at": "2021-07-16",
+            "retweet_count": 7
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.871244635193133
+        }
+    },
+    {
+        "tweet": "@Mogwai31 @Super_trou_duc @antho_93200 @L_ThinkTank Oui, c'est certain mais du moment où c'est remarquer, ils sont sévis. Ils ne restent pas en place. Après le cas de l'Ukraine est particulier puisse que en guerre et en mobilisation générale. Il faut voir ce qui est fait après la guerre.",
+        "metadata": {
+            "id": 1528043433537019904,
+            "user": "yggnott",
+            "created_at": "2022-05-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8993288590604027
+        }
+    },
+    {
+        "tweet": "Oliv oliv 2 était en direct.\nLiberté,égalité,fraternité\nL'heure de la mobilisation nationale est née https://t.co/tHrRq0V2EU via @FacebookWatch",
+        "metadata": {
+            "id": 1414860685260070913,
+            "user": "vironles",
+            "created_at": "2021-07-13",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8823529411764706
+        }
+    },
+    {
+        "tweet": "🔴👉Liberté, égalité, fraternité\n🔴👉L’heure de la mobilisation nationale est né https://t.co/YNQ7fUd4pu via @FacebookWatch",
+        "metadata": {
+            "id": 1414851996016955397,
+            "user": "paulia43",
+            "created_at": "2021-07-13",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8604651162790697
+        }
+    },
+    {
+        "tweet": "🔴👉Liberté, égalité, fraternité\n🔴👉L’heure de la mobilisation nationale est né https://t.co/XXPnsz1779 via @FacebookWatch",
+        "metadata": {
+            "id": 1414843792402812930,
+            "user": "guimpby",
+            "created_at": "2021-07-13",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8604651162790697
+        }
+    },
+    {
+        "tweet": "deux journées de manifestation dans la semaine ça fait beaucoup mais il y a du monde dans la rue dans les villes moyennes, la mobilisation ne faiblit pas",
+        "metadata": {
+            "id": 1622889294439370758,
+            "user": "1297091708275044353",
+            "created_at": "2023-02-07",
+            "retweet_count": 8
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.889571
+        }
+    },
+    {
+        "tweet": "La retraite à 65 ans sera une catastrophe sociale pour ceux qui ont commencé à travailler le plus tôt, ceux qui gagnent le moins, les femmes qui subiront encore une double peine.\n \nIl faut une mobilisation générale pour qu'E. Macron soit obligé de retirer son projet !\n \n#BFMTV",
+        "metadata": {
+            "id": 1610214342728843264,
+            "user": "murielknezek",
+            "created_at": "2023-01-03",
+            "retweet_count": 20
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8939929328621908
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/06SOE0M4ak",
+        "metadata": {
+            "id": 1556944915963285506,
+            "user": "JchRosaz",
+            "created_at": "2022-08-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "‼️ Mobilisation générale : encore 3 jours pour déposer vos projets au #BudgetParticipatif ‼️\n\nParce que le bonheur des uns fait aussi celui des autres💡\nParce que vous êtes créatifs 🚀\nParce que vous êtes les acteurs de votre quartier👩‍🔧\n\n👉Imaginez le #Paris de demain https://t.co/7I6lseekEe",
+        "metadata": {
+            "id": 1365794192786665474,
+            "user": "elliot_faramond",
+            "created_at": "2021-02-27",
+            "retweet_count": 13
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8993288590604027
+        }
+    },
+    {
+        "tweet": "64 ans avec 43 années de cotisation. Voici l'ignoble réforme des #retraites que veulent imposer #Macron et #Borne à l'ensemble des Français. Ce sont ces gens privilégiés qui viennent une nouvelle fois donner des leçons aux travailleurs... Un mot d'ordre : mobilisation générale !",
+        "metadata": {
+            "id": 1612956141159419905,
+            "user": "_PapillonRouge",
+            "created_at": "2023-01-10",
+            "retweet_count": 5
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8961937716262975
+        }
+    },
+    {
+        "tweet": "@SippelAlexandr1 Qui a donné une majorité à ces quelques milliers de gens à la dernière élection générale ?",
+        "metadata": {
+            "id": 1583327988120440832,
+            "user": "MonniauxD",
+            "created_at": "2022-10-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8974358974358975
+        }
+    },
+    {
+        "tweet": "Éviter le \"travailler plus sans gagner plus\", grâce à la mobilisation de la @fsu_77  https://t.co/fiwODgJTjg via @YouTube",
+        "metadata": {
+            "id": 1558013718939799552,
+            "user": "EcologieFsu",
+            "created_at": "2022-08-12",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8615384615384616
+        }
+    },
+    {
+        "tweet": "@LeL_escargot Merci msieur Macron j'ai tout fait comme il faut, j'ai traversé la rue et y'avait du travail. \nJe reste dispo pour la mobilisation général msieur Macron. https://t.co/Ltu3kqTfgt",
+        "metadata": {
+            "id": 1496891479188701184,
+            "user": "KoopaCabana_",
+            "created_at": "2022-02-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.84
+        }
+    },
+    {
+        "tweet": "toute la mobilisation qu’il y a pour venir en aide aux victimes du tremblement de terre en turquie et en syrie me réchauffe le coeur, c’est magnifique subhan’الله",
+        "metadata": {
+            "id": 1622897659148115969,
+            "user": "1320430651737362433",
+            "created_at": "2023-02-07",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.895349
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/9RQm1DPO73",
+        "metadata": {
+            "id": 1557365527047200769,
+            "user": "montavivande",
+            "created_at": "2022-08-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/HHAGwFFsEo",
+        "metadata": {
+            "id": 1557357781157642240,
+            "user": "MichAvice",
+            "created_at": "2022-08-10",
+            "retweet_count": 2
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "@bembajp La mobilisation de Fardc nous concerne en ce moment. Il peut marcher seul jusqu'à l'endroit où il veut.",
+        "metadata": {
+            "id": 1534057707677818886,
+            "user": "KIKUDIMECHACK12",
+            "created_at": "2022-06-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8524590163934426
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/QB0kmEucYg",
+        "metadata": {
+            "id": 1551124469657354241,
+            "user": "SteibelMartine",
+            "created_at": "2022-07-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/4JYwohJqY0",
+        "metadata": {
+            "id": 1551018335659237376,
+            "user": "Raphaelpn59",
+            "created_at": "2022-07-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "🔴👉Liberté, égalité, fraternité\n🔴👉L’heure de la mobilisation nationale est né https://t.co/BIp68GLMzS via @FacebookWatch",
+        "metadata": {
+            "id": 1414679942558883842,
+            "user": "yamine_hassani",
+            "created_at": "2021-07-12",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8604651162790697
+        }
+    },
+    {
+        "tweet": "@ColonelBigBoss @stratpol_site Quel renfort ? Y a 75% de l'armée russe en ukraine. La moitié est blessée ou morte.\nPoutine devra déclarer une mobilisation générale et il se fera pendre à ce moment là.\nLe réveil va être dur pour les poutinolatres.",
+        "metadata": {
+            "id": 1568608928044310529,
+            "user": "Yougetwhatyoup2",
+            "created_at": "2022-09-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8816964285714286
+        }
+    },
+    {
+        "tweet": "@jeanmarctardif2 @Phil07514355 C'est plus que la population générale en âge de travailler.\n\nTrès intéressant. Des sources?",
+        "metadata": {
+            "id": 1436533077061275652,
+            "user": "VoisinSt",
+            "created_at": "2021-09-11",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8931297709923665
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/h1P5vdLVT9",
+        "metadata": {
+            "id": 1550126604692574212,
+            "user": "Selyne_a",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/mAEMiFPjTE",
+        "metadata": {
+            "id": 1550122514499510275,
+            "user": "Titou01071980",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/EcRPa5T5jY",
+        "metadata": {
+            "id": 1550115002874335240,
+            "user": "DuffaudR",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "#Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de #cuisinier https://t.co/OvdMAprPxV",
+        "metadata": {
+            "id": 1550111797805428743,
+            "user": "Jleylia",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8928571428571429
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/uDqjoDenNF",
+        "metadata": {
+            "id": 1550111149105876992,
+            "user": "ulyssedu29",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/ZcDcigOuJA",
+        "metadata": {
+            "id": 1550110049233620993,
+            "user": "SylvieGrimm4",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/NU76XNA3fR",
+        "metadata": {
+            "id": 1550108611556380673,
+            "user": "ClementGlrn",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/EEViMLpnUM",
+        "metadata": {
+            "id": 1550107262378811393,
+            "user": "DauphinGuery",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/cROJvhuf6r",
+        "metadata": {
+            "id": 1550106943804563458,
+            "user": "sergecannasse",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/GxUCgj2P7V 👏👏👏👏👏💐💐💐",
+        "metadata": {
+            "id": 1550104858832912384,
+            "user": "seals83",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8971428571428571
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/HYlz37e0eD",
+        "metadata": {
+            "id": 1550103111842336769,
+            "user": "sandra_challin",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/uBaoKgH5Vn",
+        "metadata": {
+            "id": 1550100325494919175,
+            "user": "perolff",
+            "created_at": "2022-07-21",
+            "retweet_count": 2
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/WJ73XME4eA",
+        "metadata": {
+            "id": 1550098411067686913,
+            "user": "detoilesemo",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/72VsQljfjp",
+        "metadata": {
+            "id": 1550098313428484096,
+            "user": "AnnadeBrancovan",
+            "created_at": "2022-07-21",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/2HB5v5hDK1",
+        "metadata": {
+            "id": 1550095746355036161,
+            "user": "emmanueldjesse_",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "YOUPI!\n\nVictoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/IjxnxdkIin",
+        "metadata": {
+            "id": 1550095540012064769,
+            "user": "mimimimou8",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.8959537572254336
+        }
+    },
+    {
+        "tweet": "VICTOIRE ! Grâce à VOUS, à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/ClbYe5IwGU",
+        "metadata": {
+            "id": 1550095317739134979,
+            "user": "JocelyneOuang",
+            "created_at": "2022-07-21",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.896551724137931
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/gGAg3yhDez",
+        "metadata": {
+            "id": 1550094524789456902,
+            "user": "RabineDesBois",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/rsufYBj39e",
+        "metadata": {
+            "id": 1550094253296156679,
+            "user": "LimonadeNordic",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    },
+    {
+        "tweet": "Victoire ! Grâce à la mobilisation de plus de 79 000 personnes, Mamadou peut rester en France et poursuivre son travail de cuisinier https://t.co/12doRjWMPu",
+        "metadata": {
+            "id": 1550092073197510657,
+            "user": "PSebayhi",
+            "created_at": "2022-07-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la mobilisation générale",
+            "distance": 0.891566265060241
+        }
+    }
+]

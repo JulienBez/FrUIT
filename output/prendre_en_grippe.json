@@ -1,0 +1,145 @@
+[
+    {
+        "tweet": "@thatswann mais ça dépend de la taille 🤦 faut tellement prendre en compte ça",
+        "metadata": {
+            "id": 1369199937406242818,
+            "user": "sexanddeadroses",
+            "created_at": "2021-03-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8987341772151899
+        }
+    },
+    {
+        "tweet": "y a pas qlq pr venir au city2 avec moi et me prendre en photo",
+        "metadata": {
+            "id": 1621509848037982210,
+            "user": "1516574486635630594",
+            "created_at": "2023-02-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.875
+        }
+    },
+    {
+        "tweet": "@user212rif quel horreur rappelle moi de jms te prendre en tant que designer",
+        "metadata": {
+            "id": 1621929717703008256,
+            "user": "1473405631843475460",
+            "created_at": "2023-02-04",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.898734
+        }
+    },
+    {
+        "tweet": "ma soeur trop fan de moi qui arrête pas de me prendre en vidéos 😎",
+        "metadata": {
+            "id": 1622282545269194754,
+            "user": "769912231706423297",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.882353
+        }
+    },
+    {
+        "tweet": "Ces gens qui se font prendre en photo au moment du vote, gênant.",
+        "metadata": {
+            "id": 1513132605511647236,
+            "user": "cazabat_jacques",
+            "created_at": "2022-04-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8805970149253731
+        }
+    },
+    {
+        "tweet": "@Dende38 Ou Bordeaux, alors eux ce qu’ils doivent prendre en ce moment…😶‍🌫️",
+        "metadata": {
+            "id": 1526553867525275648,
+            "user": "unmaxdefoot",
+            "created_at": "2022-05-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8974358974358975
+        }
+    },
+    {
+        "tweet": "J’arrive même plus à me prendre en photos ou vidéos en ce moment",
+        "metadata": {
+            "id": 1410028545850720265,
+            "user": "Ashl___",
+            "created_at": "2021-06-30",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8805970149253731
+        }
+    },
+    {
+        "tweet": "@SoKtw Ça dépend de la taille mais en soit sans prendre en compte le prix",
+        "metadata": {
+            "id": 1335606166999756801,
+            "user": "WsMorant",
+            "created_at": "2020-12-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8947368421052632
+        }
+    },
+    {
+        "tweet": "@rkiveslovers jsuis morte on dirait moi quand qqln veut me prendre en photo",
+        "metadata": {
+            "id": 1622934055544139777,
+            "user": "1445869181660971014",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.897436
+        }
+    },
+    {
+        "tweet": "C’est moi ou tout est bon à prendre en ce moment ???",
+        "metadata": {
+            "id": 1521526073904836609,
+            "user": "Jonathanclt",
+            "created_at": "2022-05-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8545454545454545
+        }
+    },
+    {
+        "tweet": "En ce moment je suis en mood ou je fait que de me prendre en photo",
+        "metadata": {
+            "id": 1331427521640980482,
+            "user": "only_sam57",
+            "created_at": "2020-11-25",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "prendre en grippe",
+            "distance": 0.8840579710144928
+        }
+    }
+]

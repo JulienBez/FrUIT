@@ -1,0 +1,866 @@
+{
+    "Ca me dit rien": {
+        "correction": "NO",
+        "kept": false
+    },
+    "Il y a bien longtemps, dans une galaxie lointaine, très lointaine": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Est-ce que tu mèmes ?": {
+        "correction": "NO",
+        "kept": true
+    },
+    "coup de froid": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la boule de cristal": {
+        "correction": "NO",
+        "kept": true
+    },
+    "NOUS NE SOMMES PAS SEULS": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Casse-toi pauvre con": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Tant qu'il y a de la vie, il y a de l'espoir": {
+        "correction": "NO",
+        "kept": true
+    },
+    "prendre des vessies pour des lanternes": {
+        "correction": "NO",
+        "kept": true
+    },
+    "au nom de la loi": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être mort de rire": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Impossible n'est pas français": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le futur est de l'histoire ancienne": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Il y a de l'eau dans le gaz": {
+        "correction": "NO",
+        "kept": true
+    },
+    "X, mode d'emploi": {
+        "correction": "NO",
+        "kept": false
+    },
+    "au fond du trou": {
+        "correction": "NO",
+        "kept": true
+    },
+    "À côté de la plaque": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Jusqu'ici tout va bien": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le retour n'était que le début": {
+        "correction": "NO",
+        "kept": true
+    },
+    "A long time ago in a galaxy far, far away...": {
+        "correction": "NO",
+        "kept": false
+    },
+    "jouer avec le feu": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le coup de jeune": {
+        "correction": "NO",
+        "kept": true
+    },
+    "La fin commence": {
+        "correction": "NO",
+        "kept": true
+    },
+    "laisser le temps au temps": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Ce moment où tu X": {
+        "correction": "NO",
+        "kept": false
+    },
+    "la prise de tête": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Tout ce qui brille n'est pas or": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Qu'est-ce que c'est": {
+        "correction": "NO",
+        "kept": false
+    },
+    "Je traverse la rue et X": {
+        "correction": "NO",
+        "kept": false
+    },
+    "pour le meilleur et pour le pire": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Mieux vaut tard que jamais": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la loi de la jungle": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le tour du monde en 80 jours": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Make the planet great again": {
+        "correction": "NO",
+        "kept": false
+    },
+    "L'amour est éternel": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Assumez votre position": {
+        "correction": "NO",
+        "kept": true
+    },
+    "L'erreur est humaine": {
+        "correction": "NO",
+        "kept": true
+    },
+    "l'acte de naissance": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la machine à X": {
+        "correction": "NO",
+        "kept": false
+    },
+    "le pôle emploi": {
+        "correction": "NO",
+        "kept": true
+    },
+    "couper les cheveux en quatre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "La France, tu l'aimes ou tu la quittes": {
+        "correction": "NO",
+        "kept": true
+    },
+    "c'est le deuxième effet Sorbonne": {
+        "correction": "c'est le deuxième effet Kisscool",
+        "kept": true
+    },
+    "La question elle est vite répondue": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Denim is the new black": {
+        "correction": "NO",
+        "kept": false
+    },
+    "quoi qu'il en dise": {
+        "correction": "NO",
+        "kept": false
+    },
+    "Travailler plus pour gagner plus": {
+        "correction": "NO",
+        "kept": true
+    },
+    "mettre un pied dans la porte": {
+        "correction": "NO",
+        "kept": true
+    },
+    "à bout de souffle": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Bienvenue chez les Ch'tis!": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le coup de chapeau": {
+        "correction": "NO",
+        "kept": true
+    },
+    "c'est pas prêt, mais c'est pas grave": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Omar m'a tuer": {
+        "correction": "NO",
+        "kept": true
+    },
+    "prendre en grippe": {
+        "correction": "NO",
+        "kept": true
+    },
+    "X est le nouveau Y": {
+        "correction": "NO",
+        "kept": false
+    },
+    "le Ministre de l'intérieur": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Vous connaissez le nom. Vous connaissez le numéro": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Que l'écrabouillage commence !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "De quoi X est-il le nom ?": {
+        "correction": "NO",
+        "kept": false
+    },
+    "Cour des comptes": {
+        "correction": "NO",
+        "kept": false
+    },
+    "train de vie": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la tarte à la crème": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Putain de film !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "coule de source": {
+        "correction": "couler de source",
+        "kept": true
+    },
+    "je pense, donc je suis": {
+        "correction": "NO",
+        "kept": true
+    },
+    "au bout du rouleau": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Hasta la vista, baby ": {
+        "correction": "NO",
+        "kept": false
+    },
+    "Là où il y a de la gêne": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la police de proximité": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Tous les coups sont permis": {
+        "correction": "NO",
+        "kept": true
+    },
+    "debout les damnés de la terre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "C’est mon projet": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Que la force soit avec toi": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la mobilisation générale": {
+        "correction": "NO",
+        "kept": true
+    },
+    "faire des étincelles": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Y a de la joie!": {
+        "correction": "NO",
+        "kept": true
+    },
+    "marcher sur la tête": {
+        "correction": "NO",
+        "kept": true
+    },
+    "à la vie à la mort": {
+        "correction": "NO",
+        "kept": true
+    },
+    "De l'argent plein les poches": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le futur est derrière nous": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Après la pluie, le beau temps": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Partir, c'est mourir un peu": {
+        "correction": "NO",
+        "kept": true
+    },
+    "X sous perfusion": {
+        "correction": "NO",
+        "kept": false
+    },
+    "en réserve de la république": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le beurre et l'argent du beurre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "on ne peut pas accueillir toute la misère du monde": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être dans les pommes": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la cerise sur le gâteau": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Liberté égalité fraternité": {
+        "correction": "NO",
+        "kept": true
+    },
+    "tu pousses le bouchon un peu trop loin, Maurice": {
+        "correction": "NO",
+        "kept": true
+    },
+    "La taille, ça compte": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Arme de destruction massive": {
+        "correction": "NO",
+        "kept": true
+    },
+    "additionner des choux et des carottes": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Air Force One": {
+        "correction": "NO",
+        "kept": true
+    },
+    "APRES 5 ANS D'INTERDICTION": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Attention, un train peut en cacher un autre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Autant en emporte le vent": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Aux armes, citoyens": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Aux grands hommes, la patrie reconnaissante": {
+        "correction": "NO",
+        "kept": true
+    },
+    "avoir de l'encre dans les veines": {
+        "correction": "NO",
+        "kept": true
+    },
+    "avoir du plomb dans l'aile": {
+        "correction": "NO",
+        "kept": true
+    },
+    "avoir la tête de l'emploi": {
+        "correction": "NO",
+        "kept": true
+    },
+    "avoir le feu aux fesses": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Beaucoup de choses peuvent arriver au milieu de nulle part": {
+        "correction": "NO",
+        "kept": true
+    },
+    "boire comme du petit lait": {
+        "correction": "NO",
+        "kept": true
+    },
+    "catégorie poids lourds": {
+        "correction": "NO",
+        "kept": true
+    },
+    "cent pour cent": {
+        "correction": "NO",
+        "kept": true
+    },
+    "C'est dans l'air du temps": {
+        "correction": "NO",
+        "kept": true
+    },
+    "C'est moins cher qu'une tronçonneuse !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "chasse au gaspi, chasse d'eau": {
+        "correction": "NO",
+        "kept": true
+    },
+    "compte en Suisse": {
+        "correction": "NO",
+        "kept": true
+    },
+    "contes des mille et une nuits": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Contrat d'assurance vie": {
+        "correction": "NO",
+        "kept": true
+    },
+    "con comme la lune": {
+        "correction": "NO",
+        "kept": true
+    },
+    "creux de la vague": {
+        "correction": "NO",
+        "kept": true
+    },
+    "D'amour et d'eau fraîche": {
+        "correction": "NO",
+        "kept": true
+    },
+    "D'amour et d'eau fraîche, amour vache": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Dans l’espace, personne ne vous entend crier": {
+        "correction": "NO",
+        "kept": true
+    },
+    "des gens biens sous tous rapports": {
+        "correction": "NO",
+        "kept": true
+    },
+    "de mal en pis": {
+        "correction": "NO",
+        "kept": true
+    },
+    "donner de la confiture aux cochons": {
+        "correction": "NO",
+        "kept": true
+    },
+    "déterrer la hache de guerre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "développement durable": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Echec et mat": {
+        "correction": "NO",
+        "kept": true
+    },
+    "en avoir ras le bol": {
+        "correction": "NO",
+        "kept": true
+    },
+    "en flagrant délit": {
+        "correction": "NO",
+        "kept": true
+    },
+    "en grande pompe": {
+        "correction": "NO",
+        "kept": true
+    },
+    "en mauvais état": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Etat de droit": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Et vous, qui vous regarde !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "faire-part de décès": {
+        "correction": "NO",
+        "kept": true
+    },
+    "faire couler du liquide": {
+        "correction": "NO",
+        "kept": true
+    },
+    "formation professionnelle": {
+        "correction": "NO",
+        "kept": true
+    },
+    "hausser le ton": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Home sweet home": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Il doute de rien": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Il en rêvait, elle l'a fait": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Il y a comme un os": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Il y a loin de la coupe aux lèvres, coupe budgétaire": {
+        "correction": "NO",
+        "kept": true
+    },
+    "L'affaire est dans le sac": {
+        "correction": "NO",
+        "kept": true
+    },
+    "l'art de X, noyer le poisson": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la belle au bois dormant": {
+        "correction": "NO",
+        "kept": true
+    },
+    "La belle et la bête": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la chambre des pairs": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la langue de bois": {
+        "correction": "NO",
+        "kept": true
+    },
+    "la ligne de mire": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Les plus chanceux meurent en premier": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le cadet de ses soucis": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le cessez-le-feu": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le crime est un poison. Voici l'antidote": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le doigt d'honneur": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le fait divers": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Le futur commence": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le marché noir": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le rideau de fer,baisser le rideau": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le tapis rouge": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le train-train, train en retard": {
+        "correction": "NO",
+        "kept": true
+    },
+    "le travail à la chaîne, la chaîne de télé": {
+        "correction": "NO",
+        "kept": true
+    },
+    "L'histoire d'un jeune homme qui s'intéresse principalement à l'ultra-violence et à Beethoven !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "lignes à grande vitesse": {
+        "correction": "NO",
+        "kept": true
+    },
+    "mettre en boite": {
+        "correction": "NO",
+        "kept": true
+    },
+    "mettre la main": {
+        "correction": "NO",
+        "kept": true
+    },
+    "mine de rien": {
+        "correction": "NO",
+        "kept": true
+    },
+    "montée de fièvre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Métro, boulot dodo": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Nous allons vous manger !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "noyer le poisson": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Omar ne sait pas écrire": {
+        "correction": "NO",
+        "kept": true
+    },
+    "On ne peut pas avoir 500 millions d'amis sans se faire quelques ennemis": {
+        "correction": "NO",
+        "kept": true
+    },
+    "opération mains propres": {
+        "correction": "NO",
+        "kept": true
+    },
+    "passager de première classe": {
+        "correction": "NO",
+        "kept": true
+    },
+    "permis de conduire": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Plus vite, plus haut, plus fort": {
+        "correction": "NO",
+        "kept": true
+    },
+    "prendre ses cliques et ses claques": {
+        "correction": "NO",
+        "kept": true
+    },
+    "prendre son pied": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Prenez l'escalier ! Prenez l'escalier ! Par pitié prenez l'escalier !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Quand la violence s'empare du monde, priez pour qu'il soit là...": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Quand on n'a que l'amour": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Quel que soit le vainqueur... Nous perdons": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Qui l'eût cru?": {
+        "correction": "NO",
+        "kept": true
+    },
+    "redorer son image": {
+        "correction": "NO",
+        "kept": true
+    },
+    "règlement de compte": {
+        "correction": "NO",
+        "kept": true
+    },
+    "régler leur compte": {
+        "correction": "NO",
+        "kept": true
+    },
+    "samedi des cendres": {
+        "correction": "NO",
+        "kept": true
+    },
+    "sauter en parachute": {
+        "correction": "NO",
+        "kept": true
+    },
+    "s'envoyer en l'air": {
+        "correction": "NO",
+        "kept": true
+    },
+    "se voiler la face": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Taxe à valeur ajoutée": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Touche pas à mon pote": {
+        "correction": "NO",
+        "kept": true
+    },
+    "tourner autour du pot": {
+        "correction": "NO",
+        "kept": true
+    },
+    "tourner la page": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Tous les chemins mènent à Rome": {
+        "correction": "NO",
+        "kept": true
+    },
+    "trousse de secours": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Une bonne bouchée en mérite une deuxième !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Une comédie romantique. Avec des zombies": {
+        "correction": "NO",
+        "kept": true
+    },
+    "un chèque en bois": {
+        "correction": "NO",
+        "kept": true
+    },
+    "un couvre-chef, chef d'entreprise": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Un de perdu dix de retrouvés": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Un pour tous, tous pour un": {
+        "correction": "NO",
+        "kept": true
+    },
+    "voler dans les plumes": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Vous ne la connaissez pas encore mais elle vous déteste déjà": {
+        "correction": "NO",
+        "kept": true
+    },
+    "We are going to eat you !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "Y a pas le feu au lac": {
+        "correction": "NO",
+        "kept": true
+    },
+    "zéro de conduite": {
+        "correction": "NO",
+        "kept": true
+    },
+    "À bon entendeur, salut !": {
+        "correction": "NO",
+        "kept": true
+    },
+    "à bras le corps": {
+        "correction": "NO",
+        "kept": true
+    },
+    "à feu et à sang": {
+        "correction": "NO",
+        "kept": true
+    },
+    "à fleur de peau, couleur de peau": {
+        "correction": "NO",
+        "kept": true
+    },
+    "à fond la caisse": {
+        "correction": "NO",
+        "kept": true
+    },
+    "État de siège": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être copains comme cochons": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être dans les choux": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être en guerre": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être fier comme Artaban": {
+        "correction": "NO",
+        "kept": true
+    },
+    "être simple comme un coup de fil": {
+        "correction": "NO",
+        "kept": true
+    }
+}

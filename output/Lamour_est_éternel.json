@@ -1,0 +1,561 @@
+[
+    {
+        "tweet": "@2VKExcellence L'amour est un esprit et vie a nous de la mettre en pratique. merci",
+        "metadata": {
+            "id": 1401107880770686978,
+            "user": "LeonKoffi8",
+            "created_at": "2021-06-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8850574712643678
+        }
+    },
+    {
+        "tweet": "@Laplume07 @Sylvie_Latina_5 Tout a fait, l'amour est  l'essence de la Vie 🙏🌺🌟✨😇",
+        "metadata": {
+            "id": 1373693762078175232,
+            "user": "Fatiha70",
+            "created_at": "2021-03-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8795180722891566
+        }
+    },
+    {
+        "tweet": "L'amour est dans Gab !\nAllez, go go gadget \"j'traverse la rue\" https://t.co/uX3Ivio0W1",
+        "metadata": {
+            "id": 1347899983194894336,
+            "user": "KalmSane",
+            "created_at": "2021-01-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8901098901098901
+        }
+    },
+    {
+        "tweet": "@HeleenaBenian Tout ce qu'on à toujours parler.  L'amour est fini mais pas la vie.",
+        "metadata": {
+            "id": 1464326552888516615,
+            "user": "natcheu",
+            "created_at": "2021-11-26",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8837209302325582
+        }
+    },
+    {
+        "tweet": "@ibiza3000sa Tout à fait mon amie\nL'amour est la vie qui vibre en nous\nBonjour Élégie",
+        "metadata": {
+            "id": 1362010220231348230,
+            "user": "Travell70152303",
+            "created_at": "2021-02-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8888888888888888
+        }
+    },
+    {
+        "tweet": "La loyauté c'est au dessus de l'amour.\n\nL'amour est éphémère. \nLa loyauté c'est à vie.",
+        "metadata": {
+            "id": 1472605930659500039,
+            "user": "Limel66803672",
+            "created_at": "2021-12-19",
+            "retweet_count": 2
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8651685393258427
+        }
+    },
+    {
+        "tweet": "@ACrazyPants_ C'est une vision très restrictive. L'amour est une porte ouverte à la vie.",
+        "metadata": {
+            "id": 1335301147519758336,
+            "user": "THEGOODBRXTHER",
+            "created_at": "2020-12-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8924731182795699
+        }
+    },
+    {
+        "tweet": "@lepolymorphe Sourire à la vie\nEt embellir le Monde\nL'amour est partout\n\n#Haïku en écho ✨",
+        "metadata": {
+            "id": 1562356301870530560,
+            "user": "Trgmary",
+            "created_at": "2022-08-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8924731182795699
+        }
+    },
+    {
+        "tweet": "je viens de m’inscrire a l'amour est dans le pré souhaiter moi bonne chance",
+        "metadata": {
+            "id": 1623344132994244610,
+            "user": "1585071065667092480",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.875
+        }
+    },
+    {
+        "tweet": "L'amour est à la vie ce que le rêve est au sommeil.",
+        "metadata": {
+            "id": 1463312084679147526,
+            "user": "JustePaulette",
+            "created_at": "2021-11-24",
+            "retweet_count": 31
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8214285714285714
+        }
+    },
+    {
+        "tweet": "« C'est pas facile à dire, l'amour est à ce prix là\nCar rien n'est éternel, la vie te l'a appris, hélas »",
+        "metadata": {
+            "id": 1530237884774723584,
+            "user": "Yacine_ahb",
+            "created_at": "2022-05-27",
+            "retweet_count": 3
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8363636363636363
+        }
+    },
+    {
+        "tweet": "[🍃#Citation]\n\n- L'amour est la seule part de reconnaissance que l'on a envers la vie.\n\n- Hark",
+        "metadata": {
+            "id": 1451497152530862080,
+            "user": "hark2_0",
+            "created_at": "2021-10-22",
+            "retweet_count": 2
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8958333333333334
+        }
+    },
+    {
+        "tweet": "L’amour entre deux âmes est éternel car la vie ne s’arrête pas à la mort https://t.co/9QYqYWyRl9",
+        "metadata": {
+            "id": 1466779587346640904,
+            "user": "Mwana974",
+            "created_at": "2021-12-03",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.884016973125884
+        }
+    },
+    {
+        "tweet": "L’amour entre deux âmes est éternel car la vie ne s’arrête pas à la mort https://t.co/JPreop6lzt",
+        "metadata": {
+            "id": 1466525578857570304,
+            "user": "baytiboutique",
+            "created_at": "2021-12-02",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.884016973125884
+        }
+    },
+    {
+        "tweet": "L'amour est la source de la vie,\nLe bonheur est son énergie\nIsabelle C.",
+        "metadata": {
+            "id": 1426119544586784769,
+            "user": "a_saxifrage",
+            "created_at": "2021-08-13",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.868421052631579
+        }
+    },
+    {
+        "tweet": "💖SOUTIENT 💖\n          ✌à nos amis ukrainien✌\n\nL'amour est la source de toute vie https://t.co/m0jP5in2xM",
+        "metadata": {
+            "id": 1497570135347019778,
+            "user": "HeDavid02",
+            "created_at": "2022-02-26",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8979591836734694
+        }
+    },
+    {
+        "tweet": "Et finalement, l'Amour est à la base de la vie.",
+        "metadata": {
+            "id": 1412964113156911120,
+            "user": "LakJoaquim",
+            "created_at": "2021-07-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8076923076923077
+        }
+    },
+    {
+        "tweet": "@MenHayatte À travers les yeux qu'on découvre l'amour est la femme de sa vie",
+        "metadata": {
+            "id": 1555201912600989697,
+            "user": "ganacharif",
+            "created_at": "2022-08-04",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8765432098765432
+        }
+    },
+    {
+        "tweet": "L'amour est une étape. Au revoir en est une autre... Et les deux doivent être fermes, rien n'est éternel dans la vie. https://t.co/P0gVOvnTvX",
+        "metadata": {
+            "id": 1593310498123968512,
+            "user": "A_ValentinaR81",
+            "created_at": "2022-11-17",
+            "retweet_count": 34
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8767123287671232
+        }
+    },
+    {
+        "tweet": "L'amour est la façon dont le cœur parle à l'âme; l'amour donne vie aux pensées.",
+        "metadata": {
+            "id": 1391985600690069505,
+            "user": "payetsu",
+            "created_at": "2021-05-11",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8809523809523809
+        }
+    },
+    {
+        "tweet": "L'amour est la source de lumière qui apporte à la vie son meilleur éclairage.",
+        "metadata": {
+            "id": 1592589897504022528,
+            "user": "enbrnl_",
+            "created_at": "2022-11-15",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8780487804878049
+        }
+    },
+    {
+        "tweet": "La mz restera l'amour de ma vie, mon amour est voué a leur musique ptn😭😭😭",
+        "metadata": {
+            "id": 1323085950470205442,
+            "user": "mnlilas",
+            "created_at": "2020-11-02",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8974358974358975
+        }
+    },
+    {
+        "tweet": "@Solitai89205893 De même à toi, à donner de l'amour est une joie dans la vie, bisous",
+        "metadata": {
+            "id": 1458063235362471936,
+            "user": "tonyrjonsson",
+            "created_at": "2021-11-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8876404494382022
+        }
+    },
+    {
+        "tweet": "@franckyxm L'amour est bien la seule chose qui n'est pas acquise à vie",
+        "metadata": {
+            "id": 1526477803172114432,
+            "user": "Frannyanti",
+            "created_at": "2022-05-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8666666666666667
+        }
+    },
+    {
+        "tweet": "Parce que seul le Temps est capable de comprendre combien l'Amour est important dans la vie.",
+        "metadata": {
+            "id": 1418552116709363720,
+            "user": "Benglia_A",
+            "created_at": "2021-07-23",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8969072164948454
+        }
+    },
+    {
+        "tweet": "@LoveZavanah L'amour est une magie, qui donne un sens à la vie.",
+        "metadata": {
+            "id": 1364681886262571009,
+            "user": "AdamsGl6",
+            "created_at": "2021-02-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8529411764705882
+        }
+    },
+    {
+        "tweet": "@Ginger74124317 La vie à deux est un bonheur si l'amour est le rêve",
+        "metadata": {
+            "id": 1363596243675607050,
+            "user": "Travell70152303",
+            "created_at": "2021-02-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8611111111111112
+        }
+    },
+    {
+        "tweet": "@Melanie002019 L'amour est au coeur de la vie, et sans son plaisir, la vie n'a aucun sens.",
+        "metadata": {
+            "id": 1363584741639864335,
+            "user": "AdamsGl6",
+            "created_at": "2021-02-21",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8947368421052632
+        }
+    },
+    {
+        "tweet": "@TPMP On s'en fout de l'amour est dans le pré, il y a des choses plus importantes dans la vie",
+        "metadata": {
+            "id": 1582441040761434113,
+            "user": "Cathy51964750",
+            "created_at": "2022-10-18",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8979591836734694
+        }
+    },
+    {
+        "tweet": "L'amour est si beau à la télévision pourquoi dans la vraie vie c'est si difficile.",
+        "metadata": {
+            "id": 1455088078901686274,
+            "user": "Ricard_lyly",
+            "created_at": "2021-11-01",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8850574712643678
+        }
+    },
+    {
+        "tweet": "bjr cv à toutes et à tous, chaque jour est une vie et surtout l'amour est la vie éternelle.",
+        "metadata": {
+            "id": 1339835860716544001,
+            "user": "mohamedalanser",
+            "created_at": "2020-12-18",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8660714285714286
+        }
+    },
+    {
+        "tweet": "@iflamour L'amour est mon espoir que la vie a un sens... avec la révolution communiste",
+        "metadata": {
+            "id": 1339557985358475264,
+            "user": "euemri",
+            "created_at": "2020-12-17",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8901098901098901
+        }
+    },
+    {
+        "tweet": "@CharnelleKemda Rien n'est acquis à l'homme. L'amour est fragile comme la vie.",
+        "metadata": {
+            "id": 1521208376306376704,
+            "user": "jeanraphaelpie1",
+            "created_at": "2022-05-02",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8795180722891566
+        }
+    },
+    {
+        "tweet": "@Fatiha70 L'amour est à la base de la vie . C'est la seule raison d'exister .",
+        "metadata": {
+            "id": 1348334104991985665,
+            "user": "PoirierBernard4",
+            "created_at": "2021-01-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8780487804878049
+        }
+    },
+    {
+        "tweet": "l'amour est une opposition à la vie sociétale",
+        "metadata": {
+            "id": 1574690056316387329,
+            "user": "_demi_portion_",
+            "created_at": "2022-09-27",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8
+        }
+    },
+    {
+        "tweet": "L'amour est la source de toute vie -\nCitation zen https://t.co/xPIdqKpNh9",
+        "metadata": {
+            "id": 1574085856113168384,
+            "user": "xetra_a",
+            "created_at": "2022-09-25",
+            "retweet_count": 18
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8717948717948718
+        }
+    },
+    {
+        "tweet": "L'amour est la source de lumière qui\rapporte à la vie son meilleur éclairage.",
+        "metadata": {
+            "id": 1573456985445498883,
+            "user": "papa_benx",
+            "created_at": "2022-09-23",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8780487804878049
+        }
+    },
+    {
+        "tweet": "@lyd_Mess Pour quoi tu dis sa . l'amour est ub grande aide a 60% pour la vie d'un être humain",
+        "metadata": {
+            "id": 1595676594626236416,
+            "user": "ZoaLaurent",
+            "created_at": "2022-11-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8979591836734694
+        }
+    },
+    {
+        "tweet": "L'amour est là réunion de deux solitudes qui ne font souvent qu'une Solitude a deux.",
+        "metadata": {
+            "id": 1405079516452732929,
+            "user": "This_Vie",
+            "created_at": "2021-06-16",
+            "retweet_count": 6
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8876404494382022
+        }
+    },
+    {
+        "tweet": "L'amour est à réinventer\nLa vraie vie est ailleurs.",
+        "metadata": {
+            "id": 1359489564834988037,
+            "user": "morceaux_choisi",
+            "created_at": "2021-02-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8214285714285714
+        }
+    },
+    {
+        "tweet": "L'amour est une personne, qui a goutté à la mort pour acheter la vie ...",
+        "metadata": {
+            "id": 1359231491289530371,
+            "user": "KhryssB",
+            "created_at": "2021-02-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8701298701298701
+        }
+    },
+    {
+        "tweet": "L'amour est une forme de punition pour notre incapacité à supporter la solitude...",
+        "metadata": {
+            "id": 1402225754121846784,
+            "user": "This_Vie",
+            "created_at": "2021-06-08",
+            "retweet_count": 27
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8850574712643678
+        }
+    },
+    {
+        "tweet": "Dans la vie de couple, l'amour est relatif à la femme et la tranquillité d'esprit à l'homme.",
+        "metadata": {
+            "id": 1354016478685761536,
+            "user": "ToiYannlionel",
+            "created_at": "2021-01-26",
+            "retweet_count": 5
+        },
+        "parenté": {
+            "seed": "L'amour est éternel",
+            "distance": 0.8969072164948454
+        }
+    }
+]

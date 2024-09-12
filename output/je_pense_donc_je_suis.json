@@ -1,0 +1,249 @@
+[
+    {
+        "tweet": "je pense donc je suis",
+        "metadata": {
+            "id": 1621036120825008128,
+            "user": "1330231080448905220",
+            "created_at": "2023-02-02",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.487685
+        }
+    },
+    {
+        "tweet": "@Sorryyouloose Je suis suisse donc Je pense la question est vite répondue: 💰",
+        "metadata": {
+            "id": 1329925358657953795,
+            "user": "Badoud11",
+            "created_at": "2020-11-20",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8809523809523809
+        }
+    },
+    {
+        "tweet": "@_ml235 c’est pas grave ils ont accepté donc je suis pas si parano que ça 😭et ma mère fait la même donc bon",
+        "metadata": {
+            "id": 1623366795003367437,
+            "user": "1550059662275379200",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.895652
+        }
+    },
+    {
+        "tweet": "@MazhelTov @Toopitss_Corp J’ai regardé breaking bad y’a seulement 1/2 ans donc je suis pas bcp plus rapide",
+        "metadata": {
+            "id": 1418590429583486978,
+            "user": "gregcala0",
+            "created_at": "2021-07-23",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8947368421052632
+        }
+    },
+    {
+        "tweet": "Genre vrmt je suis grv fatiguée au moment où j'écris ce tweet donc je suis à ça de chialer mais yeaaah ✌️",
+        "metadata": {
+            "id": 1529465862167506944,
+            "user": "howl_gcmn",
+            "created_at": "2022-05-25",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8938053097345132
+        }
+    },
+    {
+        "tweet": "@cyrusalbo Je suis portugais donc je pense que la question est vite répondue",
+        "metadata": {
+            "id": 1385184850190159874,
+            "user": "littlechiliii",
+            "created_at": "2021-04-22",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8809523809523809
+        }
+    },
+    {
+        "tweet": "@fakylino @Punchline_Orel honnêtement j'ai pas vu Breaking Bad donc je suis pas sûr d'être apte à comparer",
+        "metadata": {
+            "id": 1455991309953642523,
+            "user": "prkoro",
+            "created_at": "2021-11-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8947368421052632
+        }
+    },
+    {
+        "tweet": "@Adelinefolie Je suis pas d'accord avec toi donc je suis con ? Elle est belle la vie ahahahah",
+        "metadata": {
+            "id": 1462183375951835140,
+            "user": "anthosjka",
+            "created_at": "2021-11-20",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8811881188118812
+        }
+    },
+    {
+        "tweet": "Ça y est, je me concentrais pour travailler mes cours, maintenant je pense à mes cheveux donc je suis plus du tout concentrée 😭",
+        "metadata": {
+            "id": 1353333860264763392,
+            "user": "JiminiChat",
+            "created_at": "2021-01-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8899470899470899
+        }
+    },
+    {
+        "tweet": "Donc je pense, je vais demander à travailler midi et soir, pas plus de 3h",
+        "metadata": {
+            "id": 1331185586837839873,
+            "user": "justxnking",
+            "created_at": "2020-11-24",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.890652557319224
+        }
+    },
+    {
+        "tweet": "@a4r0nsal0p pr l’instant y’a que moi dans la boite donc je suis le seul prostitué voialvoila ;);)",
+        "metadata": {
+            "id": 1623382320693624832,
+            "user": "1404015399939760128",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.885714
+        }
+    },
+    {
+        "tweet": "je devais sortir se soir, j’ai aimé aucune de mes tenus donc je suis rester chez moi",
+        "metadata": {
+            "id": 1621582001538060288,
+            "user": "1174780056104816640",
+            "created_at": "2023-02-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.869565
+        }
+    },
+    {
+        "tweet": "En ce moment je suis dans ma phase où j’ai envie de parler à personne, donc je deviens froide",
+        "metadata": {
+            "id": 1489266814299238401,
+            "user": "JulietteMongo",
+            "created_at": "2022-02-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8925035360678925
+        }
+    },
+    {
+        "tweet": "Mon papa est parti travailler donc je suis tout seul, y’a du monde en plus. J’ai peur",
+        "metadata": {
+            "id": 1382664718154932225,
+            "user": "_Ackerman_T",
+            "created_at": "2021-04-15",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8709677419354839
+        }
+    },
+    {
+        "tweet": "@Lablaugrana6 J'ai arrêter de justesse pour travailler donc je suis plus du tout concernée ouf !!!!",
+        "metadata": {
+            "id": 1360887535078105094,
+            "user": "Seongmiiin",
+            "created_at": "2021-02-14",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8878504672897196
+        }
+    },
+    {
+        "tweet": "@elysthere ouais après moi j'me spoil les films de ce genre sur wikipedia donc je suis pas en anxiété devant",
+        "metadata": {
+            "id": 1623688831508553731,
+            "user": "884651557916160000",
+            "created_at": "2023-02-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.896552
+        }
+    },
+    {
+        "tweet": "@yyvtx7 @lewizooo Nietzsche a dis « tu deviens ce que tu es » donc je suis devenu une star",
+        "metadata": {
+            "id": 1470155679893700618,
+            "user": "iamnotiness",
+            "created_at": "2021-12-12",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8775510204081632
+        }
+    },
+    {
+        "tweet": "@NetflixFR Breaking bad je pense, parce que là je suis en Master de Chimie mdrr",
+        "metadata": {
+            "id": 1447875824317779974,
+            "user": "daizyrable",
+            "created_at": "2021-10-12",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.8981937602627258
+        }
+    },
+    {
+        "tweet": "@cpasacel c’est je pense donc je suis donc non pas descartes",
+        "metadata": {
+            "id": 1621116665076547584,
+            "user": "1107761422887538694",
+            "created_at": "2023-02-02",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "je pense, donc je suis",
+            "distance": 0.781513
+        }
+    }
+]

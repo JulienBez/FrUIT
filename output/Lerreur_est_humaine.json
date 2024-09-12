@@ -1,0 +1,132 @@
+[
+    {
+        "tweet": "@Fuentes_Vie A partir du moment où messi était avant même que griezmann ne pose un pied à l’aéroport c’était une erreur de casting tu t’es trompé mais l’erreur est humaine ce n’est rien",
+        "metadata": {
+            "id": 1432954845582004227,
+            "user": "footbaalstars",
+            "created_at": "2021-09-01",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.8848167539267016
+        }
+    },
+    {
+        "tweet": "on est humains aussi, et « l’erreur est humaine » c’est pas une expression à laquelle on a le droit ou très très minime rikiki, pcq va expliquer à des familles de défunts que l’erreur est humaine vasy va",
+        "metadata": {
+            "id": 1622734643261804545,
+            "user": "632129239",
+            "created_at": "2023-02-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.894737
+        }
+    },
+    {
+        "tweet": "l’erreur est humaine mais la vie est une chienne",
+        "metadata": {
+            "id": 1622699699013648386,
+            "user": "1471713262194638855",
+            "created_at": "2023-02-06",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.592593
+        }
+    },
+    {
+        "tweet": "@psgcommunity_ Bonjour Neymar, allez courage ne baisse pas les bras soyez toujours fort, l'erreur est humain ce sont des choses qui arrivent à tout le monde dans un moment où l'autre.",
+        "metadata": {
+            "id": 1601606142278258688,
+            "user": "MariePavaouau",
+            "created_at": "2022-12-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.873015873015873
+        }
+    },
+    {
+        "tweet": "l’erreur est humaine mais on est fatigués des gens pas professionnels !",
+        "metadata": {
+            "id": 1621422820692484096,
+            "user": "1297848508465242112",
+            "created_at": "2023-02-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.714286
+        }
+    },
+    {
+        "tweet": "@sofoxx92 l’erreur est humaine",
+        "metadata": {
+            "id": 1622352049705738243,
+            "user": "1285421179067674626",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.388889
+        }
+    },
+    {
+        "tweet": "ptdrrrrr donc je rate le podium pour un élément que les juges ont pas vu et ils veulent pas regarder la vidéo pcq « l’erreur est humaine »😂😂😂 jv tout casser",
+        "metadata": {
+            "id": 1622287650840354819,
+            "user": "1322666492022935552",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.864198
+        }
+    },
+    {
+        "tweet": "@Az0r0_ ÇA Y EST ON A DIT L’ERREUR EST HUMAINE T’AS FORCÉ , LAISSE MOI !!! Liberté égalité fraternité la",
+        "metadata": {
+            "id": 1361500876532244484,
+            "user": "S_3napi",
+            "created_at": "2021-02-16",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.8
+        }
+    },
+    {
+        "tweet": "l’erreur est humaine au bout d’un moment faut essayés de pardonné..",
+        "metadata": {
+            "id": 1622549372259954688,
+            "user": "1291663133480804363",
+            "created_at": "2023-02-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.69863
+        }
+    },
+    {
+        "tweet": "@mephisto_pn @Mowpirate92izi @aon_bl @booba @NicoleSadek En effet je viens de voir son deuxième tweet, l’erreur est humaine après tout 🙈",
+        "metadata": {
+            "id": 1430554787301445636,
+            "user": "beberthelo",
+            "created_at": "2021-08-25",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "L'erreur est humaine",
+            "distance": 0.8450704225352113
+        }
+    }
+]

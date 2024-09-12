@@ -1,0 +1,184 @@
+[
+    {
+        "tweet": "j’ai un coup de barre",
+        "metadata": {
+            "id": 1621971309319098370,
+            "user": "1507838912768745480",
+            "created_at": "2023-02-04",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.857143
+        }
+    },
+    {
+        "tweet": "un coup de cœur",
+        "metadata": {
+            "id": 1623343310143119360,
+            "user": "1423675678940139523",
+            "created_at": "2023-02-08",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.795918
+        }
+    },
+    {
+        "tweet": "j’ai un coup de barre bruh",
+        "metadata": {
+            "id": 1623314643610484736,
+            "user": "1122065644596465664",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.885714
+        }
+    },
+    {
+        "tweet": "sur un coup de tete",
+        "metadata": {
+            "id": 1622261209562058755,
+            "user": "933397246510583813",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.84127
+        }
+    },
+    {
+        "tweet": "j'ai un coup de barre laaa",
+        "metadata": {
+            "id": 1623258924831875074,
+            "user": "3027346120",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.885714
+        }
+    },
+    {
+        "tweet": "@6ayya j’sais pas un coup de folie comme ça",
+        "metadata": {
+            "id": 1623059459370262531,
+            "user": "1535880416825348097",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.897959
+        }
+    },
+    {
+        "tweet": "un coup de fourche une goutte de feu",
+        "metadata": {
+            "id": 1623044119491907585,
+            "user": "2664684091",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.877551
+        }
+    },
+    {
+        "tweet": "un coup de feu wtf",
+        "metadata": {
+            "id": 1621648248678096897,
+            "user": "1264557592782802945",
+            "created_at": "2023-02-03",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.747899
+        }
+    },
+    {
+        "tweet": "j’ai un coup de barre pitié",
+        "metadata": {
+            "id": 1622343638997934080,
+            "user": "1139126717744857088",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.89011
+        }
+    },
+    {
+        "tweet": "@thalie_ya un coup de main ?",
+        "metadata": {
+            "id": 1622874748186251267,
+            "user": "273665610",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.89418
+        }
+    },
+    {
+        "tweet": "un coup de cœur clairement",
+        "metadata": {
+            "id": 1623099099099676679,
+            "user": "1253641621775794177",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.885714
+        }
+    },
+    {
+        "tweet": "@jjukke_ un coup de génie ça",
+        "metadata": {
+            "id": 1622221046324629504,
+            "user": "869666413182668800",
+            "created_at": "2023-02-05",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.89418
+        }
+    },
+    {
+        "tweet": "Ils ont traversé la rue sur un coup de fil",
+        "metadata": {
+            "id": 1402711562780094465,
+            "user": "M1ckM3rs",
+            "created_at": "2021-06-09",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.8954703832752613
+        }
+    },
+    {
+        "tweet": "achetez moi coup de coeur svp",
+        "metadata": {
+            "id": 1623784011620384768,
+            "user": "1488177334263889920",
+            "created_at": "2023-02-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "coup de froid",
+            "distance": 0.897959
+        }
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "tweet": "elle était belle loin de la jungle, mais bon, la jungle l’a rattrapée",
+        "metadata": {
+            "id": 1623067860833816576,
+            "user": "1370724516591247363",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.837838
+        }
+    },
+    {
+        "tweet": "elle était belle loin de la jungle",
+        "metadata": {
+            "id": 1622538171144720384,
+            "user": "1369373168339742727",
+            "created_at": "2023-02-06",
+            "retweet_count": 1
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.692308
+        }
+    },
+    {
+        "tweet": "@denise_septem 😂😂😂 le roi de la jungle fait dur ce matin 😂😂",
+        "metadata": {
+            "id": 1621869316168732672,
+            "user": "219315715",
+            "created_at": "2023-02-04",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.75
+        }
+    },
+    {
+        "tweet": "@TPMP La question est vite répondue : la loi de 1905 !",
+        "metadata": {
+            "id": 1392192183759949826,
+            "user": "The_KingOL",
+            "created_at": "2021-05-11",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.8983050847457628
+        }
+    },
+    {
+        "tweet": "sale gay va pourquoi tu fais de la jungle si cest pas pour galocher dautres filles vsy je t écoute :)))",
+        "metadata": {
+            "id": 1622626980418973696,
+            "user": "1303054696077295616",
+            "created_at": "2023-02-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.888889
+        }
+    },
+    {
+        "tweet": "@kamba82 😂😂😂 le malheur des uns fait le bonheur des autres, ainsi la loi de la nature. 🤦‍♂️",
+        "metadata": {
+            "id": 1429529911530868742,
+            "user": "NgotoDenis",
+            "created_at": "2021-08-22",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.875
+        }
+    },
+    {
+        "tweet": "@biberon586 C'est la loi de la vie.  Le malheur des uns fait le bonheur des autres",
+        "metadata": {
+            "id": 1568283782314336256,
+            "user": "YayaKante19",
+            "created_at": "2022-09-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.8604651162790697
+        }
+    },
+    {
+        "tweet": "@albiFCB7 L'amour d'une mère reste toujours à vie et c'est la loi de la Nature",
+        "metadata": {
+            "id": 1533786805522268160,
+            "user": "coul_yasmine",
+            "created_at": "2022-06-06",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.8554216867469879
+        }
+    },
+    {
+        "tweet": "question l'interprétation de la loi de 1968.",
+        "metadata": {
+            "id": 1623244292314611712,
+            "user": "1518502237424783361",
+            "created_at": "2023-02-08",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.842566
+        }
+    },
+    {
+        "tweet": "pour comprendre la loi de chasles",
+        "metadata": {
+            "id": 1623792216492634113,
+            "user": "1593622203412758530",
+            "created_at": "2023-02-09",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.834586
+        }
+    },
+    {
+        "tweet": "La loi de l'amour porte à donner sa propre vie pour le bien des autres",
+        "metadata": {
+            "id": 1492788999005655044,
+            "user": "LamouEmmanuel7",
+            "created_at": "2022-02-13",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.8933333333333333
+        }
+    },
+    {
+        "tweet": "@kiksouuu Après c’est triste à dire mais à partir du moment où tu poste ta photo en publique tout le monde peu y répondre et dire ce qu’il veux. C là dure loi de la jungle",
+        "metadata": {
+            "id": 1380909782245199877,
+            "user": "zombitchhhhhhh",
+            "created_at": "2021-04-10",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.8863636363636364
+        }
+    },
+    {
+        "tweet": "les as de la jungle foudroie les teens titans, c’est ce que j’aurais dit si j’étais un fdp",
+        "metadata": {
+            "id": 1623019887378542593,
+            "user": "1610748786350981124",
+            "created_at": "2023-02-07",
+            "retweet_count": 0
+        },
+        "parenté": {
+            "seed": "la loi de la jungle",
+            "distance": 0.873684
+        }
+    }
+]
