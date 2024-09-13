@@ -73,6 +73,22 @@ def getGraph(logscale=False):
     plt.close()
 
 
+def filteringStepsMetadata():
+    ""
+    data = openJson("logs/filters.json")
+    total_inital = sum([v for k,v in data["initialNumbers"].items()])
+    total_duplicates = sum([ 
+        sum([v for k,v in data["deleteDuplicates"].items()]) , 
+        sum([v for k,v in data["deleteContentDuplicates"].items()]) , 
+        sum([v for k,v in data["deleteDuplicatesMore"].items()]) 
+        ])
+    total_seedsFiltered = sum([v for k,v in data["filterLowest"]["filtered"].items()])
+    print(f"nb tweets avant filtres : {total_inital}")
+    print(f"nb tweets après filtre duplicats : {total_duplicates}")
+    print(f"nb tweets après filtre par seeds : {total_seedsFiltered}")
+
+
+
 def metadata():
     ""
     totalSeeds()
@@ -81,3 +97,4 @@ def metadata():
     getWordNumber()
     getGraph()
     getGraph(logscale=True)
+    filteringStepsMetadata()

@@ -7,6 +7,9 @@ from src.manageFile import *
 from src.filterBySeeds import *
 from src.filterByTweets import *
 
+filteringStepsMetadata()
+1/0
+
 def proceed(args):
 
   start = time.time()
