@@ -6,9 +6,8 @@ from src.getTweets import *
 from src.manageFile import *
 from src.filterBySeeds import *
 from src.filterByTweets import *
+from parse import *
 
-filteringStepsMetadata()
-1/0
 
 def proceed(args):
 
@@ -26,7 +25,20 @@ def proceed(args):
   if args.filterBySeeds:
     filterBySeeds()
 
+  if args.tag:
+    parseSeeds()
+    parseTweets()
+
   if args.metadata:
+    metadata()
+
+  if args.all:
+    getTweets()
+    sort()
+    filterByTweets()
+    filterBySeeds()
+    parseSeeds()
+    parseTweets()
     metadata()
 
   end = time.time()
@@ -42,6 +54,7 @@ if __name__ == "__main__":
   parser.add_argument("-s", "--sort", action="store_true", help="Sort tweets according to their seeds.")
   parser.add_argument("-ft", "--filterByTweets", action="store_true", help="Apply tweets-based filters on tweets.")
   parser.add_argument("-fs", "--filterBySeeds", action="store_true", help="Apply seeds-based filters on tweets.")
+  parser.add_argument("-t", "--tag",action="store_true", help="Preprocess seeds and tweets to get tokens, POS tags and lemmas.")
   parser.add_argument("-m", "--metadata", action="store_true", help="Get some metadatas.")
 
   parser.add_argument("--all", action="store_true", help="Execute all at once.")

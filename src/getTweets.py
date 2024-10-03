@@ -7,14 +7,14 @@ ACCESS_TOKEN = 'your-access-token'
 ACCESS_TOKEN_SECRET = 'your-access-token-secret'
 
 def authentification():
-    ""
+    """authentification to Twitter API"""
     auth = tweepy.OAuthHandler(API_KEY, API_SECRET)
     auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     return tweepy.API(auth)
 
 
 def getTweetData(tweet_id,tweet):
-    ""
+    """create a well-formated data format for each tweet"""
     return {
         "tweet": tweet.user.id_str,
         "metadata": {
@@ -31,7 +31,7 @@ def getTweetData(tweet_id,tweet):
 
 
 def getTweets():
-    ""
+    """fetch tweets according to our list of ids via Twitter API"""
     createFolder("data/tweets")
     api = authentification()
     tweets_ids = openJson("data/tweets_ids.json")

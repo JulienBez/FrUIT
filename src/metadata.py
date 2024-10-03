@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from .manageFile import *
+from .utils import *
 
 def totalTweets():
     ""
@@ -17,6 +17,7 @@ def totalSeeds():
 
 
 def medianTweetPerSeed():
+    ""
     counter = []
     for path in glob.glob("output/*.json"):
         total = len(openJson(path))
@@ -27,6 +28,7 @@ def medianTweetPerSeed():
 
 
 def minMaxTweets():
+    ""
     counter = []
     for path in glob.glob("output/*.json"):
         total = len(openJson(path))
