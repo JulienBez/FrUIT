@@ -90,7 +90,6 @@ def filteringStepsMetadata():
     print(f"nb tweets après filtre par seeds : {total_seedsFiltered}")
 
 
-
 def metadata():
     ""
     totalSeeds()
