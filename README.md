@@ -12,7 +12,7 @@ First, run this command to install all the prerequisites:
 pip install -r requirements.txt
 ```
 
-To fetch the tweets of the FrUIT corpus from Twitter and put them in **data/tweets**, you can run the following command:
+To fetch the tweets of the FrUIT corpus from Twitter and put them in **data/tweets**, run the following command:
 
 ```
 python main.py --getTweets
@@ -24,7 +24,7 @@ Then, you can sort each tweet according to its seed in **output** with the follo
 python main.py --sort
 ```
 
-To reproduce the same filtering steps as us, you can run those two commands:
+To reproduce the same filtering steps as us, run those two commands:
 
 ```
 python main.py --filterByTweets
