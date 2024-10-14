@@ -1,10 +1,10 @@
-from .manageFile import *
+from .utils import *
 
 def extractBySeeds(path,dict_seeds):
 	"""create a dict with seeds as keys and tweets+metadata as values"""
 	data = openJson(path)
 	for entry in data:
-		seed = entry["parenté"]["seed"]
+		seed = entry["paired_with"]["seed"]
 		if seed not in dict_seeds:
 			dict_seeds[seed] = []
 		dict_seeds[seed].append(entry)

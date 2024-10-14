@@ -1,5 +1,5 @@
 import tweepy
-from .manageFile import *
+from .utils import *
 
 API_KEY = 'your-api-key'
 API_SECRET = 'your-api-secret'
@@ -16,14 +16,14 @@ def authentification():
 def getTweetData(tweet_id,tweet):
     """create a well-formated data format for each tweet"""
     return {
-        "tweet": tweet.user.id_str,
+        "sent": tweet.user.id_str,
         "metadata": {
             "id": tweet_id["id"],
             "user": tweet.user.id_str,
             "created_at": tweet.created_at.split("T")[0],
             "retweet_count": tweet.retweet_count
             },
-        "parenté": {
+        "paired_with": {
             "seed": tweet_id["seed"],
             "distance": tweet_id["distance"]
             }

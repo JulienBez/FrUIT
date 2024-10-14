@@ -1,866 +1,7338 @@
 {
     "Ca me dit rien": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "ca",
+            "me",
+            "dit",
+            "rien"
+        ],
+        "LEM": [
+            "ca",
+            "me",
+            "dire",
+            "rien"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "VERB",
+            "PRON"
+        ],
+        "DEP": [
+            "dit",
+            "dit",
+            "dit",
+            "dit"
+        ]
     },
     "Il y a bien longtemps, dans une galaxie lointaine, très lointaine": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "y",
+            "a",
+            "bien",
+            "longtemps",
+            ",",
+            "dans",
+            "une",
+            "galaxie",
+            "lointaine",
+            ",",
+            "très",
+            "lointaine"
+        ],
+        "LEM": [
+            "il",
+            "y",
+            "avoir",
+            "bien",
+            "longtemps",
+            ",",
+            "dans",
+            "un",
+            "galaxie",
+            "lointain",
+            ",",
+            "très",
+            "lointain"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADV",
+            "PUNCT",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADJ",
+            "PUNCT",
+            "ADV",
+            "ADJ"
+        ],
+        "DEP": [
+            "il",
+            "il",
+            "il",
+            "longtemps",
+            "a",
+            "il",
+            "galaxie",
+            "galaxie",
+            " ",
+            "galaxie",
+            "lointaine",
+            "lointaine",
+            "galaxie"
+        ]
     },
     "Est-ce que tu mèmes ?": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "est",
+            "ce",
+            "que",
+            "tu",
+            "mèmes",
+            "?"
+        ],
+        "LEM": [
+            "être",
+            "ce",
+            "que",
+            "tu",
+            "mèmer",
+            "?"
+        ],
+        "POS": [
+            "AUX",
+            "PRON",
+            "PRON",
+            "PRON",
+            "VERB",
+            "PUNCT"
+        ],
+        "DEP": [
+            "ce",
+            "ce",
+            "mèmes",
+            "mèmes",
+            "ce",
+            "?"
+        ]
     },
     "coup de froid": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "coup",
+            "de",
+            "froid"
+        ],
+        "LEM": [
+            "coup",
+            "de",
+            "froid"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "coup",
+            "froid",
+            "coup"
+        ]
     },
     "la boule de cristal": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "boule",
+            "de",
+            "cristal"
+        ],
+        "LEM": [
+            "le",
+            "boule",
+            "de",
+            "cristal"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "boule",
+            "boule",
+            "cristal",
+            "boule"
+        ]
     },
     "NOUS NE SOMMES PAS SEULS": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "nous",
+            "ne",
+            "sommes",
+            "pas",
+            "seuls"
+        ],
+        "LEM": [
+            "nous",
+            "ne",
+            "être",
+            "pas",
+            "seul"
+        ],
+        "POS": [
+            "PRON",
+            "ADV",
+            "AUX",
+            "ADV",
+            "ADJ"
+        ],
+        "DEP": [
+            "seuls",
+            "seuls",
+            "seuls",
+            "seuls",
+            "seuls"
+        ]
     },
     "Casse-toi pauvre con": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "casse",
+            "toi",
+            "pauvre",
+            "con"
+        ],
+        "LEM": [
+            "casser",
+            "toi",
+            "pauvre",
+            "con"
+        ],
+        "POS": [
+            "VERB",
+            "PRON",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "casse",
+            "casse",
+            "con",
+            "casse"
+        ]
     },
     "Tant qu'il y a de la vie, il y a de l'espoir": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tant",
+            "qu",
+            "il",
+            "y",
+            "a",
+            "de",
+            "la",
+            "vie",
+            ",",
+            "il",
+            "y",
+            "a",
+            "de",
+            "l",
+            "espoir"
+        ],
+        "LEM": [
+            "tant",
+            "qu",
+            "il",
+            "y",
+            "avoir",
+            "de",
+            "le",
+            "vie",
+            ",",
+            "il",
+            "y",
+            "avoir",
+            "de",
+            "l",
+            "espoir"
+        ],
+        "POS": [
+            "ADV",
+            "SCONJ",
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "a",
+            "tant",
+            "a",
+            "a",
+            " ",
+            "vie",
+            "de",
+            "a",
+            " ",
+            "a",
+            "a",
+            "a",
+            "espoir",
+            "de",
+            "a"
+        ]
     },
     "prendre des vessies pour des lanternes": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "prendre",
+            "des",
+            "vessies",
+            "pour",
+            "des",
+            "lanternes"
+        ],
+        "LEM": [
+            "prendre",
+            "un",
+            "vessie",
+            "pour",
+            "un",
+            "lanterne"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "prendre",
+            "vessies",
+            "prendre",
+            "lanternes",
+            "lanternes",
+            "prendre"
+        ]
     },
     "au nom de la loi": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "au",
+            "nom",
+            "de",
+            "la",
+            "loi"
+        ],
+        "LEM": [
+            "au",
+            "nom",
+            "de",
+            "le",
+            "loi"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "nom",
+            "nom",
+            "loi",
+            "loi",
+            "nom"
+        ]
     },
     "être mort de rire": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "mort",
+            "de",
+            "rire"
+        ],
+        "LEM": [
+            "être",
+            "mort",
+            "de",
+            "rire"
+        ],
+        "POS": [
+            "AUX",
+            "ADJ",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "mort",
+            "mort",
+            "rire",
+            "mort"
+        ]
     },
     "Impossible n'est pas français": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "impossible",
+            "n",
+            "est",
+            "pas",
+            "français"
+        ],
+        "LEM": [
+            "impossible",
+            "ne",
+            "être",
+            "pas",
+            "français"
+        ],
+        "POS": [
+            "ADJ",
+            "ADV",
+            "AUX",
+            "ADV",
+            "ADJ"
+        ],
+        "DEP": [
+            "impossible",
+            "français",
+            "français",
+            "français",
+            "impossible"
+        ]
     },
     "Le futur est de l'histoire ancienne": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "futur",
+            "est",
+            "de",
+            "l",
+            "histoire",
+            "ancienne"
+        ],
+        "LEM": [
+            "le",
+            "futur",
+            "être",
+            "de",
+            "l",
+            "histoire",
+            "ancien"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "futur",
+            "histoire",
+            "histoire",
+            "histoire",
+            "de",
+            "histoire",
+            "histoire"
+        ]
     },
     "Il y a de l'eau dans le gaz": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "y",
+            "a",
+            "de",
+            "l",
+            "eau",
+            "dans",
+            "le",
+            "gaz"
+        ],
+        "LEM": [
+            "il",
+            "y",
+            "avoir",
+            "de",
+            "l",
+            "eau",
+            "dans",
+            "le",
+            "gaz"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "a",
+            "a",
+            "a",
+            "eau",
+            "de",
+            "a",
+            "gaz",
+            "gaz",
+            "a"
+        ]
     },
     "X, mode d'emploi": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "x",
+            ",",
+            "mode",
+            "d",
+            "emploi"
+        ],
+        "LEM": [
+            "x",
+            ",",
+            "mode",
+            "d",
+            "emploi"
+        ],
+        "POS": [
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "x",
+            "x",
+            " ",
+            "emploi",
+            "mode"
+        ]
     },
     "au fond du trou": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "au",
+            "fond",
+            "du",
+            "trou"
+        ],
+        "LEM": [
+            "au",
+            "fond",
+            "de",
+            "trou"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "fond",
+            "fond",
+            "trou",
+            "fond"
+        ]
     },
     "À côté de la plaque": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "côté",
+            "de",
+            "la",
+            "plaque"
+        ],
+        "LEM": [
+            "à",
+            "côté",
+            "de",
+            "le",
+            "plaque"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "côté",
+            "côté",
+            "plaque",
+            "plaque",
+            "côté"
+        ]
     },
     "Jusqu'ici tout va bien": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "jusqu",
+            "ici",
+            "tout",
+            "va",
+            "bien"
+        ],
+        "LEM": [
+            "jusqu",
+            "ici",
+            "tout",
+            "aller",
+            "bien"
+        ],
+        "POS": [
+            "ADP",
+            "ADV",
+            "PRON",
+            "VERB",
+            "ADV"
+        ],
+        "DEP": [
+            "va",
+            "jusqu",
+            "va",
+            "va",
+            "va"
+        ]
     },
     "Le retour n'était que le début": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "retour",
+            "n",
+            "était",
+            "que",
+            "le",
+            "début"
+        ],
+        "LEM": [
+            "le",
+            "retour",
+            "ne",
+            "être",
+            "que",
+            "le",
+            "début"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADV",
+            "AUX",
+            "ADV",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "retour",
+            "début",
+            "début",
+            "début",
+            "début",
+            "début",
+            "début"
+        ]
     },
     "A long time ago in a galaxy far, far away...": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "a",
+            "long",
+            "time",
+            "ago",
+            "in",
+            "a",
+            "galaxy",
+            "far",
+            ",",
+            "far",
+            "away",
+            ".",
+            ".",
+            "."
+        ],
+        "LEM": [
+            "avoir",
+            "long",
+            "time",
+            "ago",
+            "in",
+            "avoir",
+            "galaxy",
+            "far",
+            ",",
+            "far",
+            "away",
+            ".",
+            ".",
+            "."
+        ],
+        "POS": [
+            "X",
+            "ADJ",
+            "X",
+            "X",
+            "X",
+            "X",
+            "X",
+            "X",
+            "PUNCT",
+            "X",
+            "X",
+            "PUNCT",
+            "PUNCT",
+            "PUNCT"
+        ],
+        "DEP": [
+            "time",
+            "time",
+            "time",
+            "time",
+            "time",
+            "far",
+            "far",
+            "in",
+            "time",
+            "time",
+            "far",
+            "time",
+            ".",
+            " "
+        ]
     },
     "jouer avec le feu": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "jouer",
+            "avec",
+            "le",
+            "feu"
+        ],
+        "LEM": [
+            "jouer",
+            "avec",
+            "le",
+            "feu"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "jouer",
+            "feu",
+            "feu",
+            "jouer"
+        ]
     },
     "le coup de jeune": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "coup",
+            "de",
+            "jeune"
+        ],
+        "LEM": [
+            "le",
+            "coup",
+            "de",
+            "jeune"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "coup",
+            "coup",
+            "jeune",
+            "coup"
+        ]
     },
     "La fin commence": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "fin",
+            "commence"
+        ],
+        "LEM": [
+            "le",
+            "fin",
+            "commencer"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "VERB"
+        ],
+        "DEP": [
+            "fin",
+            "commence",
+            "commence"
+        ]
     },
     "laisser le temps au temps": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "laisser",
+            "le",
+            "temps",
+            "au",
+            "temps"
+        ],
+        "LEM": [
+            "laisser",
+            "le",
+            "temps",
+            "au",
+            "temps"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "laisser",
+            "temps",
+            "laisser",
+            "temps",
+            "laisser"
+        ]
     },
     "Ce moment où tu X": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "ce",
+            "moment",
+            "où",
+            "tu",
+            "x"
+        ],
+        "LEM": [
+            "ce",
+            "moment",
+            "où",
+            "tu",
+            "x"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "PRON",
+            "PRON",
+            "VERB"
+        ],
+        "DEP": [
+            "moment",
+            "moment",
+            "x",
+            "x",
+            "moment"
+        ]
     },
     "la prise de tête": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "prise",
+            "de",
+            "tête"
+        ],
+        "LEM": [
+            "le",
+            "prise",
+            "de",
+            "tête"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "prise",
+            "prise",
+            "tête",
+            "prise"
+        ]
     },
     "Tout ce qui brille n'est pas or": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tout",
+            "ce",
+            "qui",
+            "brille",
+            "n",
+            "est",
+            "pas",
+            "or"
+        ],
+        "LEM": [
+            "tout",
+            "ce",
+            "qui",
+            "briller",
+            "ne",
+            "être",
+            "pas",
+            "or"
+        ],
+        "POS": [
+            "ADJ",
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADV",
+            "AUX",
+            "ADV",
+            "ADJ"
+        ],
+        "DEP": [
+            "ce",
+            "or",
+            "brille",
+            "ce",
+            "or",
+            "or",
+            "or",
+            "or"
+        ]
     },
     "Qu'est-ce que c'est": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "qu",
+            "est",
+            "ce",
+            "que",
+            "c",
+            "est"
+        ],
+        "LEM": [
+            "que",
+            "être",
+            "ce",
+            "que",
+            "c",
+            "être"
+        ],
+        "POS": [
+            "PRON",
+            "AUX",
+            "PRON",
+            "PRON",
+            "PRON",
+            "AUX"
+        ],
+        "DEP": [
+            "qu",
+            "qu",
+            "qu",
+            "c",
+            "qu",
+            "qu"
+        ]
     },
     "Je traverse la rue et X": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "je",
+            "traverse",
+            "la",
+            "rue",
+            "et",
+            "x"
+        ],
+        "LEM": [
+            "je",
+            "traverser",
+            "le",
+            "rue",
+            "et",
+            "x"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN",
+            "CCONJ",
+            "PROPN"
+        ],
+        "DEP": [
+            "traverse",
+            "traverse",
+            "rue",
+            "traverse",
+            "x",
+            "traverse"
+        ]
     },
     "pour le meilleur et pour le pire": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "pour",
+            "le",
+            "meilleur",
+            "et",
+            "pour",
+            "le",
+            "pire"
+        ],
+        "LEM": [
+            "pour",
+            "le",
+            "meilleur",
+            "et",
+            "pour",
+            "le",
+            "pire"
+        ],
+        "POS": [
+            "ADP",
+            "DET",
+            "ADJ",
+            "CCONJ",
+            "ADP",
+            "DET",
+            "ADV"
+        ],
+        "DEP": [
+            "meilleur",
+            "meilleur",
+            "meilleur",
+            "pire",
+            "pire",
+            "pire",
+            "meilleur"
+        ]
     },
     "Mieux vaut tard que jamais": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "mieux",
+            "vaut",
+            "tard",
+            "que",
+            "jamais"
+        ],
+        "LEM": [
+            "mieux",
+            "valoir",
+            "tard",
+            "que",
+            "jamais"
+        ],
+        "POS": [
+            "ADV",
+            "VERB",
+            "ADV",
+            "SCONJ",
+            "ADV"
+        ],
+        "DEP": [
+            "vaut",
+            "vaut",
+            "vaut",
+            "jamais",
+            "tard"
+        ]
     },
     "la loi de la jungle": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "loi",
+            "de",
+            "la",
+            "jungle"
+        ],
+        "LEM": [
+            "le",
+            "loi",
+            "de",
+            "le",
+            "jungle"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "loi",
+            "loi",
+            "jungle",
+            "jungle",
+            "loi"
+        ]
     },
     "Le tour du monde en 80 jours": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "tour",
+            "du",
+            "monde",
+            "en",
+            "80",
+            "jours"
+        ],
+        "LEM": [
+            "le",
+            "tour",
+            "de",
+            "monde",
+            "en",
+            "80",
+            "jour"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "ADP",
+            "NUM",
+            "NOUN"
+        ],
+        "DEP": [
+            "tour",
+            "tour",
+            "monde",
+            "tour",
+            "jours",
+            "jours",
+            "tour"
+        ]
     },
     "Make the planet great again": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "make",
+            "the",
+            "planet",
+            "great",
+            "again"
+        ],
+        "LEM": [
+            "make",
+            "the",
+            "planet",
+            "great",
+            "again"
+        ],
+        "POS": [
+            "X",
+            "X",
+            "X",
+            "X",
+            "X"
+        ],
+        "DEP": [
+            "make",
+            "make",
+            "the",
+            "make",
+            "make"
+        ]
     },
     "L'amour est éternel": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "l",
+            "amour",
+            "est",
+            "éternel"
+        ],
+        "LEM": [
+            "l",
+            "amour",
+            "être",
+            "éternel"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADJ"
+        ],
+        "DEP": [
+            "amour",
+            "éternel",
+            "éternel",
+            "éternel"
+        ]
     },
     "Assumez votre position": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "assumez",
+            "votre",
+            "position"
+        ],
+        "LEM": [
+            "assumer",
+            "votre",
+            "position"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "assumez",
+            "position",
+            "assumez"
+        ]
     },
     "L'erreur est humaine": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "l",
+            "erreur",
+            "est",
+            "humaine"
+        ],
+        "LEM": [
+            "l",
+            "erreur",
+            "être",
+            "humain"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADJ"
+        ],
+        "DEP": [
+            "erreur",
+            "humaine",
+            "humaine",
+            "humaine"
+        ]
     },
     "l'acte de naissance": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "l",
+            "acte",
+            "de",
+            "naissance"
+        ],
+        "LEM": [
+            "l",
+            "acte",
+            "de",
+            "naissance"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "acte",
+            "acte",
+            "naissance",
+            "acte"
+        ]
     },
     "la machine à X": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "la",
+            "machine",
+            "à",
+            "x"
+        ],
+        "LEM": [
+            "le",
+            "machine",
+            "à",
+            "x"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "machine",
+            "machine",
+            "x",
+            "machine"
+        ]
     },
     "le pôle emploi": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "pôle",
+            "emploi"
+        ],
+        "LEM": [
+            "le",
+            "pôle",
+            "emploi"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "NOUN"
+        ],
+        "DEP": [
+            "pôle",
+            "pôle",
+            "pôle"
+        ]
     },
     "couper les cheveux en quatre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "couper",
+            "les",
+            "cheveux",
+            "en",
+            "quatre"
+        ],
+        "LEM": [
+            "couper",
+            "le",
+            "cheveu",
+            "en",
+            "quatre"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NUM"
+        ],
+        "DEP": [
+            "couper",
+            "cheveux",
+            "couper",
+            "quatre",
+            "couper"
+        ]
     },
     "La France, tu l'aimes ou tu la quittes": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "france",
+            ",",
+            "tu",
+            "l",
+            "aimes",
+            "ou",
+            "tu",
+            "la",
+            "quittes"
+        ],
+        "LEM": [
+            "le",
+            "france",
+            ",",
+            "tu",
+            "l",
+            "aimer",
+            "ou",
+            "tu",
+            "le",
+            "quitter"
+        ],
+        "POS": [
+            "DET",
+            "PROPN",
+            "PUNCT",
+            "PRON",
+            "PRON",
+            "VERB",
+            "CCONJ",
+            "PRON",
+            "PRON",
+            "VERB"
+        ],
+        "DEP": [
+            "france",
+            "france",
+            " ",
+            "aimes",
+            "aimes",
+            "aimes",
+            "quittes",
+            "quittes",
+            "quittes",
+            "aimes"
+        ]
     },
     "c'est le deuxième effet Sorbonne": {
         "correction": "c'est le deuxième effet Kisscool",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "c",
+            "est",
+            "le",
+            "deuxième",
+            "effet",
+            "sorbonne"
+        ],
+        "LEM": [
+            "c",
+            "être",
+            "le",
+            "deuxième",
+            "effet",
+            "sorbon"
+        ],
+        "POS": [
+            "PRON",
+            "AUX",
+            "DET",
+            "ADJ",
+            "NOUN",
+            "PROPN"
+        ],
+        "DEP": [
+            "effet",
+            "effet",
+            "effet",
+            "effet",
+            "effet",
+            "effet"
+        ]
     },
     "La question elle est vite répondue": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "question",
+            "elle",
+            "est",
+            "vite",
+            "répondue"
+        ],
+        "LEM": [
+            "le",
+            "question",
+            "lui",
+            "être",
+            "vite",
+            "répondre"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "PRON",
+            "AUX",
+            "ADV",
+            "VERB"
+        ],
+        "DEP": [
+            "question",
+            "question",
+            "répondue",
+            "répondue",
+            "répondue",
+            "question"
+        ]
     },
     "Denim is the new black": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "denim",
+            "is",
+            "the",
+            "new",
+            "black"
+        ],
+        "LEM": [
+            "denim",
+            "is",
+            "the",
+            "new",
+            "black"
+        ],
+        "POS": [
+            "X",
+            "X",
+            "X",
+            "X",
+            "X"
+        ],
+        "DEP": [
+            "black",
+            "black",
+            "black",
+            "black",
+            "black"
+        ]
     },
     "quoi qu'il en dise": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "quoi",
+            "qu",
+            "il",
+            "en",
+            "dise"
+        ],
+        "LEM": [
+            "quoi",
+            "qu",
+            "il",
+            "en",
+            "dire"
+        ],
+        "POS": [
+            "PRON",
+            "SCONJ",
+            "PRON",
+            "PRON",
+            "VERB"
+        ],
+        "DEP": [
+            "quoi",
+            "dise",
+            "dise",
+            "dise",
+            "quoi"
+        ]
     },
     "Travailler plus pour gagner plus": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "travailler",
+            "plus",
+            "pour",
+            "gagner",
+            "plus"
+        ],
+        "LEM": [
+            "travailler",
+            "plus",
+            "pour",
+            "gagner",
+            "plus"
+        ],
+        "POS": [
+            "VERB",
+            "ADV",
+            "ADP",
+            "VERB",
+            "ADV"
+        ],
+        "DEP": [
+            "travailler",
+            "travailler",
+            "gagner",
+            "travailler",
+            "gagner"
+        ]
     },
     "mettre un pied dans la porte": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "mettre",
+            "un",
+            "pied",
+            "dans",
+            "la",
+            "porte"
+        ],
+        "LEM": [
+            "mettre",
+            "un",
+            "pied",
+            "dans",
+            "le",
+            "porte"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "mettre",
+            "pied",
+            "mettre",
+            "porte",
+            "porte",
+            "mettre"
+        ]
     },
     "à bout de souffle": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "bout",
+            "de",
+            "souffle"
+        ],
+        "LEM": [
+            "à",
+            "bout",
+            "de",
+            "souffle"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "bout",
+            "bout",
+            "souffle",
+            "bout"
+        ]
     },
     "Bienvenue chez les Ch'tis!": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "bienvenue",
+            "chez",
+            "les",
+            "ch",
+            "tis",
+            "!"
+        ],
+        "LEM": [
+            "bienvenue",
+            "chez",
+            "le",
+            "ch",
+            "ti",
+            "!"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "bienvenue",
+            "ch",
+            "ch",
+            "bienvenue",
+            "bienvenue",
+            "bienvenue"
+        ]
     },
     "le coup de chapeau": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "coup",
+            "de",
+            "chapeau"
+        ],
+        "LEM": [
+            "le",
+            "coup",
+            "de",
+            "chapeau"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "coup",
+            "coup",
+            "chapeau",
+            "coup"
+        ]
     },
     "c'est pas prêt, mais c'est pas grave": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "c",
+            "est",
+            "pas",
+            "prêt",
+            ",",
+            "mais",
+            "c",
+            "est",
+            "pas",
+            "grave"
+        ],
+        "LEM": [
+            "c",
+            "être",
+            "pas",
+            "prêt",
+            ",",
+            "mais",
+            "c",
+            "être",
+            "pas",
+            "grave"
+        ],
+        "POS": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ",
+            "PUNCT",
+            "CCONJ",
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ"
+        ],
+        "DEP": [
+            "prêt",
+            "prêt",
+            "prêt",
+            "prêt",
+            "prêt",
+            "grave",
+            "grave",
+            "grave",
+            "grave",
+            " "
+        ]
     },
     "Omar m'a tuer": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "omar",
+            "m",
+            "a",
+            "tuer"
+        ],
+        "LEM": [
+            "omar",
+            "m",
+            "avoir",
+            "tuer"
+        ],
+        "POS": [
+            "PROPN",
+            "PROPN",
+            "AUX",
+            "VERB"
+        ],
+        "DEP": [
+            "tuer",
+            "omar",
+            "tuer",
+            "tuer"
+        ]
     },
     "prendre en grippe": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "prendre",
+            "en",
+            "grippe"
+        ],
+        "LEM": [
+            "prendre",
+            "en",
+            "grippe"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "prendre",
+            "grippe",
+            "prendre"
+        ]
     },
     "X est le nouveau Y": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "x",
+            "est",
+            "le",
+            "nouveau",
+            "y"
+        ],
+        "LEM": [
+            "x",
+            "être",
+            "le",
+            "nouveau",
+            "y"
+        ],
+        "POS": [
+            "NOUN",
+            "AUX",
+            "DET",
+            "ADJ",
+            "PRON"
+        ],
+        "DEP": [
+            "nouveau",
+            "nouveau",
+            "nouveau",
+            "nouveau",
+            "y"
+        ]
     },
     "le Ministre de l'intérieur": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "ministre",
+            "de",
+            "l",
+            "intérieur"
+        ],
+        "LEM": [
+            "le",
+            "ministre",
+            "de",
+            "l",
+            "intérieur"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "ministre",
+            "ministre",
+            "intérieur",
+            "intérieur",
+            "ministre"
+        ]
     },
     "Vous connaissez le nom. Vous connaissez le numéro": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "vous",
+            "connaissez",
+            "le",
+            "nom",
+            ".",
+            "vous",
+            "connaissez",
+            "le",
+            "numéro"
+        ],
+        "LEM": [
+            "vous",
+            "connaître",
+            "le",
+            "nom",
+            ".",
+            "vous",
+            "connaître",
+            "le",
+            "numéro"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "connaissez",
+            "connaissez",
+            "nom",
+            "connaissez",
+            "connaissez",
+            "connaissez",
+            " ",
+            "numéro",
+            "connaissez"
+        ]
     },
     "Que l'écrabouillage commence !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "que",
+            "l",
+            "écrabouillage",
+            "commence",
+            "!"
+        ],
+        "LEM": [
+            "que",
+            "l",
+            "écrabouillage",
+            "commencer",
+            "!"
+        ],
+        "POS": [
+            "SCONJ",
+            "DET",
+            "NOUN",
+            "VERB",
+            "PUNCT"
+        ],
+        "DEP": [
+            "commence",
+            "écrabouillage",
+            "commence",
+            "commence",
+            " "
+        ]
     },
     "De quoi X est-il le nom ?": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "de",
+            "quoi",
+            "x",
+            "est",
+            "il",
+            "le",
+            "nom",
+            "?"
+        ],
+        "LEM": [
+            "de",
+            "quoi",
+            "x",
+            "être",
+            "il",
+            "le",
+            "nom",
+            "?"
+        ],
+        "POS": [
+            "ADP",
+            "PRON",
+            "PRON",
+            "AUX",
+            "PRON",
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "quoi",
+            "x",
+            "x",
+            "x",
+            "x",
+            "nom",
+            "x",
+            "?"
+        ]
     },
     "Cour des comptes": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "cour",
+            "des",
+            "comptes"
+        ],
+        "LEM": [
+            "cour",
+            "de",
+            "compte"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "cour",
+            "comptes",
+            "cour"
+        ]
     },
     "train de vie": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "train",
+            "de",
+            "vie"
+        ],
+        "LEM": [
+            "train",
+            "de",
+            "vie"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "train",
+            "vie",
+            "train"
+        ]
     },
     "la tarte à la crème": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "tarte",
+            "à",
+            "la",
+            "crème"
+        ],
+        "LEM": [
+            "le",
+            "tarte",
+            "à",
+            "le",
+            "crème"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "tarte",
+            "tarte",
+            "crème",
+            "crème",
+            "tarte"
+        ]
     },
     "Putain de film !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "putain",
+            "de",
+            "film",
+            "!"
+        ],
+        "LEM": [
+            "putain",
+            "de",
+            "film",
+            "!"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "putain",
+            "film",
+            "putain",
+            "!"
+        ]
     },
     "coule de source": {
         "correction": "couler de source",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "coule",
+            "de",
+            "source"
+        ],
+        "LEM": [
+            "coule",
+            "de",
+            "source"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "coule",
+            "source",
+            "coule"
+        ]
     },
     "je pense, donc je suis": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "je",
+            "pense",
+            ",",
+            "donc",
+            "je",
+            "suis"
+        ],
+        "LEM": [
+            "je",
+            "penser",
+            ",",
+            "donc",
+            "je",
+            "être"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "PUNCT",
+            "ADV",
+            "PRON",
+            "AUX"
+        ],
+        "DEP": [
+            "pense",
+            "pense",
+            "pense",
+            "pense",
+            "pense",
+            "je"
+        ]
     },
     "au bout du rouleau": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "au",
+            "bout",
+            "du",
+            "rouleau"
+        ],
+        "LEM": [
+            "au",
+            "bout",
+            "de",
+            "rouleau"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "bout",
+            "bout",
+            "rouleau",
+            "bout"
+        ]
     },
     "Hasta la vista, baby ": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "hasta",
+            "la",
+            "vista",
+            ",",
+            "baby"
+        ],
+        "LEM": [
+            "hasta",
+            "le",
+            "vista",
+            ",",
+            "baby"
+        ],
+        "POS": [
+            "PROPN",
+            "DET",
+            "PROPN",
+            "PUNCT",
+            "PROPN"
+        ],
+        "DEP": [
+            "hasta",
+            "vista",
+            "hasta",
+            "hasta",
+            " "
+        ]
     },
     "Là où il y a de la gêne": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "là",
+            "où",
+            "il",
+            "y",
+            "a",
+            "de",
+            "la",
+            "gêne"
+        ],
+        "LEM": [
+            "là",
+            "où",
+            "il",
+            "y",
+            "avoir",
+            "de",
+            "le",
+            "gêne"
+        ],
+        "POS": [
+            "ADV",
+            "PRON",
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "là",
+            "a",
+            "a",
+            "a",
+            "là",
+            "gêne",
+            "de",
+            "a"
+        ]
     },
     "la police de proximité": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "police",
+            "de",
+            "proximité"
+        ],
+        "LEM": [
+            "le",
+            "police",
+            "de",
+            "proximité"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "police",
+            "police",
+            "proximité",
+            "police"
+        ]
     },
     "Tous les coups sont permis": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tous",
+            "les",
+            "coups",
+            "sont",
+            "permis"
+        ],
+        "LEM": [
+            "tout",
+            "le",
+            "coup",
+            "être",
+            "permettre"
+        ],
+        "POS": [
+            "ADJ",
+            "DET",
+            "NOUN",
+            "AUX",
+            "VERB"
+        ],
+        "DEP": [
+            "coups",
+            "coups",
+            "permis",
+            "permis",
+            "permis"
+        ]
     },
     "debout les damnés de la terre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "debout",
+            "les",
+            "damnés",
+            "de",
+            "la",
+            "terre"
+        ],
+        "LEM": [
+            "debout",
+            "le",
+            "damné",
+            "de",
+            "le",
+            "terre"
+        ],
+        "POS": [
+            "ADV",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "debout",
+            "damnés",
+            "debout",
+            "terre",
+            "terre",
+            "damnés"
+        ]
     },
     "C’est mon projet": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "c",
+            "est",
+            "mon",
+            "projet"
+        ],
+        "LEM": [
+            "c",
+            "être",
+            "mon",
+            "projet"
+        ],
+        "POS": [
+            "PRON",
+            "AUX",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "projet",
+            "projet",
+            "projet",
+            "projet"
+        ]
     },
     "Que la force soit avec toi": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "que",
+            "la",
+            "force",
+            "soit",
+            "avec",
+            "toi"
+        ],
+        "LEM": [
+            "que",
+            "le",
+            "force",
+            "être",
+            "avec",
+            "toi"
+        ],
+        "POS": [
+            "SCONJ",
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADP",
+            "PRON"
+        ],
+        "DEP": [
+            "toi",
+            "force",
+            "toi",
+            "toi",
+            "toi",
+            "toi"
+        ]
     },
     "la mobilisation générale": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "mobilisation",
+            "générale"
+        ],
+        "LEM": [
+            "le",
+            "mobilisation",
+            "général"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "mobilisation",
+            "mobilisation",
+            "mobilisation"
+        ]
     },
     "faire des étincelles": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "faire",
+            "des",
+            "étincelles"
+        ],
+        "LEM": [
+            "faire",
+            "un",
+            "étincelle"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "faire",
+            "étincelles",
+            "faire"
+        ]
     },
     "Y a de la joie!": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "y",
+            "a",
+            "de",
+            "la",
+            "joie",
+            "!"
+        ],
+        "LEM": [
+            "y",
+            "avoir",
+            "de",
+            "le",
+            "joie",
+            "!"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "a",
+            "a",
+            "joie",
+            "de",
+            "a",
+            "a"
+        ]
     },
     "marcher sur la tête": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "marcher",
+            "sur",
+            "la",
+            "tête"
+        ],
+        "LEM": [
+            "marcher",
+            "sur",
+            "le",
+            "tête"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "marcher",
+            "tête",
+            "tête",
+            "marcher"
+        ]
     },
     "à la vie à la mort": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "la",
+            "vie",
+            "à",
+            "la",
+            "mort"
+        ],
+        "LEM": [
+            "à",
+            "le",
+            "vie",
+            "à",
+            "le",
+            "mort"
+        ],
+        "POS": [
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "vie",
+            "vie",
+            "vie",
+            "mort",
+            "mort",
+            "mort"
+        ]
     },
     "De l'argent plein les poches": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "de",
+            "l",
+            "argent",
+            "plein",
+            "les",
+            "poches"
+        ],
+        "LEM": [
+            "de",
+            "l",
+            "argent",
+            "plein",
+            "le",
+            "poche"
+        ],
+        "POS": [
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADJ",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "argent",
+            "de",
+            "argent",
+            "argent",
+            "poches",
+            "argent"
+        ]
     },
     "Le futur est derrière nous": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "futur",
+            "est",
+            "derrière",
+            "nous"
+        ],
+        "LEM": [
+            "le",
+            "futur",
+            "être",
+            "derrière",
+            "nous"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADP",
+            "PRON"
+        ],
+        "DEP": [
+            "futur",
+            "nous",
+            "nous",
+            "nous",
+            "nous"
+        ]
     },
     "Après la pluie, le beau temps": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "après",
+            "la",
+            "pluie",
+            ",",
+            "le",
+            "beau",
+            "temps"
+        ],
+        "LEM": [
+            "après",
+            "le",
+            "pluie",
+            ",",
+            "le",
+            "beau",
+            "temps"
+        ],
+        "POS": [
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "DET",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "pluie",
+            "pluie",
+            " ",
+            " ",
+            "temps",
+            "temps",
+            " "
+        ]
     },
     "Partir, c'est mourir un peu": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "partir",
+            ",",
+            "c",
+            "est",
+            "mourir",
+            "un",
+            "peu"
+        ],
+        "LEM": [
+            "partir",
+            ",",
+            "c",
+            "être",
+            "mourir",
+            "un",
+            "peu"
+        ],
+        "POS": [
+            "VERB",
+            "PUNCT",
+            "PRON",
+            "AUX",
+            "VERB",
+            "DET",
+            "ADV"
+        ],
+        "DEP": [
+            "partir",
+            " ",
+            "est",
+            " ",
+            "est",
+            "mourir",
+            "un"
+        ]
     },
     "X sous perfusion": {
         "correction": "NO",
-        "kept": false
+        "kept": false,
+        "TOK": [
+            "x",
+            "sous",
+            "perfusion"
+        ],
+        "LEM": [
+            "x",
+            "sou",
+            "perfusion"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "x",
+            "perfusion",
+            "x"
+        ]
     },
     "en réserve de la république": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "en",
+            "réserve",
+            "de",
+            "la",
+            "république"
+        ],
+        "LEM": [
+            "en",
+            "réserve",
+            "de",
+            "le",
+            "république"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "réserve",
+            "réserve",
+            "de",
+            "république",
+            "république"
+        ]
     },
     "Le beurre et l'argent du beurre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "beurre",
+            "et",
+            "l",
+            "argent",
+            "du",
+            "beurre"
+        ],
+        "LEM": [
+            "le",
+            "beurre",
+            "et",
+            "l",
+            "argent",
+            "de",
+            "beurre"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "CCONJ",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "beurre",
+            "beurre",
+            "argent",
+            "argent",
+            "beurre",
+            "beurre",
+            "beurre"
+        ]
     },
     "on ne peut pas accueillir toute la misère du monde": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "on",
+            "ne",
+            "peut",
+            "pas",
+            "accueillir",
+            "toute",
+            "la",
+            "misère",
+            "du",
+            "monde"
+        ],
+        "LEM": [
+            "on",
+            "ne",
+            "pouvoir",
+            "pas",
+            "accueillir",
+            "tout",
+            "le",
+            "misère",
+            "de",
+            "monde"
+        ],
+        "POS": [
+            "PRON",
+            "ADV",
+            "VERB",
+            "ADV",
+            "VERB",
+            "ADJ",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "peut",
+            "peut",
+            "peut",
+            "peut",
+            "peut",
+            "misère",
+            "misère",
+            "accueillir",
+            "monde",
+            "misère"
+        ]
     },
     "être dans les pommes": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "dans",
+            "les",
+            "pommes"
+        ],
+        "LEM": [
+            "être",
+            "dans",
+            "le",
+            "pomme"
+        ],
+        "POS": [
+            "AUX",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "pommes",
+            "pommes",
+            "pommes",
+            "pommes"
+        ]
     },
     "la cerise sur le gâteau": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "cerise",
+            "sur",
+            "le",
+            "gâteau"
+        ],
+        "LEM": [
+            "le",
+            "cerise",
+            "sur",
+            "le",
+            "gâteau"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "cerise",
+            "cerise",
+            "gâteau",
+            "gâteau",
+            "cerise"
+        ]
     },
     "Liberté égalité fraternité": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "liberté",
+            "égalité",
+            "fraternité"
+        ],
+        "LEM": [
+            "liberté",
+            "égalité",
+            "fraternité"
+        ],
+        "POS": [
+            "NOUN",
+            "NOUN",
+            "NOUN"
+        ],
+        "DEP": [
+            "liberté",
+            "liberté",
+            "fraternité"
+        ]
     },
     "tu pousses le bouchon un peu trop loin, Maurice": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tu",
+            "pousses",
+            "le",
+            "bouchon",
+            "un",
+            "peu",
+            "trop",
+            "loin",
+            ",",
+            "maurice"
+        ],
+        "LEM": [
+            "tu",
+            "pousser",
+            "le",
+            "bouchon",
+            "un",
+            "peu",
+            "trop",
+            "loin",
+            ",",
+            "maurice"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN",
+            "DET",
+            "ADV",
+            "ADV",
+            "ADV",
+            "PUNCT",
+            "NOUN"
+        ],
+        "DEP": [
+            "pousses",
+            "pousses",
+            "bouchon",
+            "pousses",
+            "trop",
+            "un",
+            "loin",
+            "pousses",
+            "pousses",
+            "maurice"
+        ]
     },
     "La taille, ça compte": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "taille",
+            ",",
+            "ça",
+            "compte"
+        ],
+        "LEM": [
+            "le",
+            "taille",
+            ",",
+            "cela",
+            "compte"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "VERB"
+        ],
+        "DEP": [
+            "taille",
+            "taille",
+            " ",
+            "compte",
+            "compte"
+        ]
     },
     "Arme de destruction massive": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "arme",
+            "de",
+            "destruction",
+            "massive"
+        ],
+        "LEM": [
+            "arme",
+            "de",
+            "destruction",
+            "massif"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "arme",
+            "destruction",
+            "arme",
+            "destruction"
+        ]
     },
     "additionner des choux et des carottes": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "additionner",
+            "des",
+            "choux",
+            "et",
+            "des",
+            "carottes"
+        ],
+        "LEM": [
+            "additionner",
+            "un",
+            "chou",
+            "et",
+            "un",
+            "carotte"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "CCONJ",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "additionner",
+            "choux",
+            "additionner",
+            "carottes",
+            "carottes",
+            "choux"
+        ]
     },
     "Air Force One": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "air",
+            "force",
+            "one"
+        ],
+        "LEM": [
+            "air",
+            "forcer",
+            "one"
+        ],
+        "POS": [
+            "X",
+            "X",
+            "X"
+        ],
+        "DEP": [
+            "air",
+            "air",
+            "air"
+        ]
     },
     "APRES 5 ANS D'INTERDICTION": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "apres",
+            "5",
+            "ans",
+            "d",
+            "interdiction"
+        ],
+        "LEM": [
+            "apres",
+            "5",
+            "an",
+            "d",
+            "interdiction"
+        ],
+        "POS": [
+            "ADP",
+            "NUM",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "ans",
+            "ans",
+            "ans",
+            "interdiction",
+            "ans"
+        ]
     },
     "Attention, un train peut en cacher un autre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "attention",
+            ",",
+            "un",
+            "train",
+            "peut",
+            "en",
+            "cacher",
+            "un",
+            "autre"
+        ],
+        "LEM": [
+            "attention",
+            ",",
+            "un",
+            "train",
+            "pouvoir",
+            "en",
+            "cacher",
+            "un",
+            "autre"
+        ],
+        "POS": [
+            "NOUN",
+            "PUNCT",
+            "DET",
+            "NOUN",
+            "VERB",
+            "PRON",
+            "VERB",
+            "DET",
+            "ADJ"
+        ],
+        "DEP": [
+            "attention",
+            " ",
+            "train",
+            "peut",
+            "peut",
+            "cacher",
+            "peut",
+            "cacher",
+            "cacher"
+        ]
     },
     "Autant en emporte le vent": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "autant",
+            "en",
+            "emporte",
+            "le",
+            "vent"
+        ],
+        "LEM": [
+            "autant",
+            "en",
+            "emporter",
+            "le",
+            "vent"
+        ],
+        "POS": [
+            "ADV",
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "emporte",
+            "emporte",
+            "emporte",
+            "vent",
+            "emporte"
+        ]
     },
     "Aux armes, citoyens": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "aux",
+            "armes",
+            ",",
+            "citoyens"
+        ],
+        "LEM": [
+            "à",
+            "arme",
+            ",",
+            "citoyen"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "NOUN"
+        ],
+        "DEP": [
+            "armes",
+            "armes",
+            ",",
+            " "
+        ]
     },
     "Aux grands hommes, la patrie reconnaissante": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "aux",
+            "grands",
+            "hommes",
+            ",",
+            "la",
+            "patrie",
+            "reconnaissante"
+        ],
+        "LEM": [
+            "à",
+            "grand",
+            "homme",
+            ",",
+            "le",
+            "patrie",
+            "reconnaissant"
+        ],
+        "POS": [
+            "ADP",
+            "ADJ",
+            "NOUN",
+            "PUNCT",
+            "DET",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "hommes",
+            "hommes",
+            "hommes",
+            " ",
+            "patrie",
+            " ",
+            "patrie"
+        ]
     },
     "avoir de l'encre dans les veines": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "avoir",
+            "de",
+            "l",
+            "encre",
+            "dans",
+            "les",
+            "veines"
+        ],
+        "LEM": [
+            "avoir",
+            "de",
+            "l",
+            "encre",
+            "dans",
+            "le",
+            "veine"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "avoir",
+            "encre",
+            "de",
+            "avoir",
+            "veines",
+            "veines",
+            "avoir"
+        ]
     },
     "avoir du plomb dans l'aile": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "avoir",
+            "du",
+            "plomb",
+            "dans",
+            "l",
+            "aile"
+        ],
+        "LEM": [
+            "avoir",
+            "de",
+            "plomb",
+            "dans",
+            "l",
+            "aile"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "avoir",
+            "plomb",
+            "avoir",
+            "aile",
+            "aile",
+            "avoir"
+        ]
     },
     "avoir la tête de l'emploi": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "avoir",
+            "la",
+            "tête",
+            "de",
+            "l",
+            "emploi"
+        ],
+        "LEM": [
+            "avoir",
+            "le",
+            "tête",
+            "de",
+            "l",
+            "emploi"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "avoir",
+            "tête",
+            "avoir",
+            "emploi",
+            "emploi",
+            "tête"
+        ]
     },
     "avoir le feu aux fesses": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "avoir",
+            "le",
+            "feu",
+            "aux",
+            "fesses"
+        ],
+        "LEM": [
+            "avoir",
+            "le",
+            "feu",
+            "à",
+            "fesse"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "avoir",
+            "feu",
+            "avoir",
+            "fesses",
+            "feu"
+        ]
     },
     "Beaucoup de choses peuvent arriver au milieu de nulle part": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "beaucoup",
+            "de",
+            "choses",
+            "peuvent",
+            "arriver",
+            "au",
+            "milieu",
+            "de",
+            "nulle",
+            "part"
+        ],
+        "LEM": [
+            "beaucoup",
+            "de",
+            "chose",
+            "pouvoir",
+            "arriver",
+            "au",
+            "milieu",
+            "de",
+            "nul",
+            "part"
+        ],
+        "POS": [
+            "ADV",
+            "ADP",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "ADP",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "peuvent",
+            "choses",
+            "beaucoup",
+            "peuvent",
+            "peuvent",
+            "milieu",
+            "arriver",
+            "part",
+            "part",
+            "milieu"
+        ]
     },
     "boire comme du petit lait": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "boire",
+            "comme",
+            "du",
+            "petit",
+            "lait"
+        ],
+        "LEM": [
+            "boire",
+            "comme",
+            "de",
+            "petit",
+            "lait"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "DET",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "boire",
+            "lait",
+            "lait",
+            "lait",
+            "boire"
+        ]
     },
     "catégorie poids lourds": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "catégorie",
+            "poids",
+            "lourds"
+        ],
+        "LEM": [
+            "catégorie",
+            "poids",
+            "lourd"
+        ],
+        "POS": [
+            "NOUN",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "catégorie",
+            "catégorie",
+            "poids"
+        ]
     },
     "cent pour cent": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "cent",
+            "pour",
+            "cent"
+        ],
+        "LEM": [
+            "cent",
+            "pour",
+            "cent"
+        ],
+        "POS": [
+            "PRON",
+            "ADP",
+            "NUM"
+        ],
+        "DEP": [
+            "cent",
+            "cent",
+            "cent"
+        ]
     },
     "C'est dans l'air du temps": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "c",
+            "est",
+            "dans",
+            "l",
+            "air",
+            "du",
+            "temps"
+        ],
+        "LEM": [
+            "c",
+            "être",
+            "dans",
+            "l",
+            "air",
+            "de",
+            "temps"
+        ],
+        "POS": [
+            "PRON",
+            "AUX",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "air",
+            "air",
+            "air",
+            "air",
+            "air",
+            "temps",
+            "air"
+        ]
     },
     "C'est moins cher qu'une tronçonneuse !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "c",
+            "est",
+            "moins",
+            "cher",
+            "qu",
+            "une",
+            "tronçonneuse",
+            "!"
+        ],
+        "LEM": [
+            "c",
+            "être",
+            "moins",
+            "cher",
+            "qu",
+            "un",
+            "tronçonneuse",
+            "!"
+        ],
+        "POS": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ",
+            "SCONJ",
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "cher",
+            "cher",
+            "cher",
+            "cher",
+            "tronçonneuse",
+            "tronçonneuse",
+            "cher",
+            " "
+        ]
     },
     "chasse au gaspi, chasse d'eau": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "chasse",
+            "au",
+            "gaspi",
+            ",",
+            "chasse",
+            "d",
+            "eau"
+        ],
+        "LEM": [
+            "chasse",
+            "au",
+            "gaspi",
+            ",",
+            "chasse",
+            "d",
+            "eau"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "PUNCT",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "chasse",
+            "gaspi",
+            "chasse",
+            " ",
+            "chasse",
+            "eau",
+            "chasse"
+        ]
     },
     "compte en Suisse": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "compte",
+            "en",
+            "suisse"
+        ],
+        "LEM": [
+            "compte",
+            "en",
+            "suisse"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "PROPN"
+        ],
+        "DEP": [
+            "compte",
+            "suisse",
+            "compte"
+        ]
     },
     "contes des mille et une nuits": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "contes",
+            "des",
+            "mille",
+            "et",
+            "une",
+            "nuits"
+        ],
+        "LEM": [
+            "conte",
+            "de",
+            "mille",
+            "et",
+            "un",
+            "nuit"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NUM",
+            "CCONJ",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "contes",
+            "nuits",
+            "nuits",
+            "une",
+            "mille",
+            "contes"
+        ]
     },
     "Contrat d'assurance vie": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "contrat",
+            "d",
+            "assurance",
+            "vie"
+        ],
+        "LEM": [
+            "contrat",
+            "d",
+            "assurance",
+            "vie"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "NOUN"
+        ],
+        "DEP": [
+            "contrat",
+            "assurance",
+            "contrat",
+            "assurance"
+        ]
     },
     "con comme la lune": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "con",
+            "comme",
+            "la",
+            "lune"
+        ],
+        "LEM": [
+            "con",
+            "comme",
+            "le",
+            "lune"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "con",
+            "lune",
+            "lune",
+            "con"
+        ]
     },
     "creux de la vague": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "creux",
+            "de",
+            "la",
+            "vague"
+        ],
+        "LEM": [
+            "creux",
+            "de",
+            "le",
+            "vague"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "creux",
+            "vague",
+            "vague",
+            "creux"
+        ]
     },
     "D'amour et d'eau fraîche": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "d",
+            "amour",
+            "et",
+            "d",
+            "eau",
+            "fraîche"
+        ],
+        "LEM": [
+            "d",
+            "amour",
+            "et",
+            "d",
+            "eau",
+            "frais"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "CCONJ",
+            "ADP",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "amour",
+            "amour",
+            "eau",
+            "eau",
+            "eau",
+            "eau"
+        ]
     },
     "D'amour et d'eau fraîche, amour vache": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "d",
+            "amour",
+            "et",
+            "d",
+            "eau",
+            "fraîche",
+            ",",
+            "amour",
+            "vache"
+        ],
+        "LEM": [
+            "d",
+            "amour",
+            "et",
+            "d",
+            "eau",
+            "frais",
+            ",",
+            "amour",
+            "vache"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "CCONJ",
+            "ADP",
+            "NOUN",
+            "ADJ",
+            "PUNCT",
+            "NOUN",
+            "NOUN"
+        ],
+        "DEP": [
+            "amour",
+            "amour",
+            "eau",
+            "eau",
+            "eau",
+            "eau",
+            " ",
+            " ",
+            "amour"
+        ]
     },
     "Dans l’espace, personne ne vous entend crier": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "dans",
+            "l",
+            "espace",
+            ",",
+            "personne",
+            "ne",
+            "vous",
+            "entend",
+            "crier"
+        ],
+        "LEM": [
+            "dans",
+            "l",
+            "espace",
+            ",",
+            "personne",
+            "ne",
+            "vous",
+            "entendre",
+            "crier"
+        ],
+        "POS": [
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "ADV",
+            "PRON",
+            "VERB",
+            "VERB"
+        ],
+        "DEP": [
+            "espace",
+            "espace",
+            " ",
+            " ",
+            "entend",
+            "entend",
+            "entend",
+            "entend",
+            "entend"
+        ]
     },
     "des gens biens sous tous rapports": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "des",
+            "gens",
+            "biens",
+            "sous",
+            "tous",
+            "rapports"
+        ],
+        "LEM": [
+            "un",
+            "gens",
+            "bien",
+            "sou",
+            "tout",
+            "rapport"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADJ",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "gens",
+            "gens",
+            "gens",
+            "rapports",
+            "rapports",
+            "biens"
+        ]
     },
     "de mal en pis": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "de",
+            "mal",
+            "en",
+            "pis"
+        ],
+        "LEM": [
+            "de",
+            "mal",
+            "en",
+            "pis"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "mal",
+            "mal",
+            "pis",
+            "mal"
+        ]
     },
     "donner de la confiture aux cochons": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "donner",
+            "de",
+            "la",
+            "confiture",
+            "aux",
+            "cochons"
+        ],
+        "LEM": [
+            "donner",
+            "de",
+            "le",
+            "confiture",
+            "à",
+            "cochon"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "donner",
+            "confiture",
+            "de",
+            "donner",
+            "cochons",
+            "confiture"
+        ]
     },
     "déterrer la hache de guerre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "déterrer",
+            "la",
+            "hache",
+            "de",
+            "guerre"
+        ],
+        "LEM": [
+            "déterrer",
+            "le",
+            "hache",
+            "de",
+            "guerre"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "déterrer",
+            "hache",
+            "déterrer",
+            "guerre",
+            "hache"
+        ]
     },
     "développement durable": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "développement",
+            "durable"
+        ],
+        "LEM": [
+            "développement",
+            "durable"
+        ],
+        "POS": [
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "développement",
+            "développement"
+        ]
     },
     "Echec et mat": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "echec",
+            "et",
+            "mat"
+        ],
+        "LEM": [
+            "echec",
+            "et",
+            "mat"
+        ],
+        "POS": [
+            "NOUN",
+            "CCONJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "echec",
+            "mat",
+            "echec"
+        ]
     },
     "en avoir ras le bol": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "en",
+            "avoir",
+            "ras",
+            "le",
+            "bol"
+        ],
+        "LEM": [
+            "en",
+            "avoir",
+            "ras",
+            "le",
+            "bol"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "avoir",
+            "avoir",
+            "bol",
+            "bol",
+            "avoir"
+        ]
     },
     "en flagrant délit": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "en",
+            "flagrant",
+            "délit"
+        ],
+        "LEM": [
+            "en",
+            "flagrant",
+            "délit"
+        ],
+        "POS": [
+            "ADP",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "délit",
+            "délit",
+            "délit"
+        ]
     },
     "en grande pompe": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "en",
+            "grande",
+            "pompe"
+        ],
+        "LEM": [
+            "en",
+            "grand",
+            "pompe"
+        ],
+        "POS": [
+            "ADP",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "pompe",
+            "pompe",
+            "pompe"
+        ]
     },
     "en mauvais état": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "en",
+            "mauvais",
+            "état"
+        ],
+        "LEM": [
+            "en",
+            "mauvais",
+            "état"
+        ],
+        "POS": [
+            "ADP",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "état",
+            "état",
+            "état"
+        ]
     },
     "Etat de droit": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "etat",
+            "de",
+            "droit"
+        ],
+        "LEM": [
+            "etat",
+            "de",
+            "droit"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "etat",
+            "droit",
+            "etat"
+        ]
     },
     "Et vous, qui vous regarde !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "et",
+            "vous",
+            ",",
+            "qui",
+            "vous",
+            "regarde",
+            "!"
+        ],
+        "LEM": [
+            "et",
+            "vous",
+            ",",
+            "qui",
+            "vous",
+            "regarder",
+            "!"
+        ],
+        "POS": [
+            "CCONJ",
+            "PRON",
+            "PUNCT",
+            "PRON",
+            "PRON",
+            "VERB",
+            "PUNCT"
+        ],
+        "DEP": [
+            "vous",
+            "vous",
+            "vous",
+            "regarde",
+            "regarde",
+            " ",
+            "!"
+        ]
     },
     "faire-part de décès": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "faire",
+            "part",
+            "de",
+            "décès"
+        ],
+        "LEM": [
+            "faire",
+            "part",
+            "de",
+            "décès"
+        ],
+        "POS": [
+            "VERB",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "faire",
+            "faire",
+            "décès",
+            "faire"
+        ]
     },
     "faire couler du liquide": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "faire",
+            "couler",
+            "du",
+            "liquide"
+        ],
+        "LEM": [
+            "faire",
+            "couler",
+            "de",
+            "liquide"
+        ],
+        "POS": [
+            "AUX",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "couler",
+            "couler",
+            "liquide",
+            "couler"
+        ]
     },
     "formation professionnelle": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "formation",
+            "professionnelle"
+        ],
+        "LEM": [
+            "formation",
+            "professionnel"
+        ],
+        "POS": [
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "formation",
+            "formation"
+        ]
     },
     "hausser le ton": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "hausser",
+            "le",
+            "ton"
+        ],
+        "LEM": [
+            "hausser",
+            "le",
+            "ton"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "hausser",
+            "ton",
+            "hausser"
+        ]
     },
     "Home sweet home": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "home",
+            "sweet",
+            "home"
+        ],
+        "LEM": [
+            "home",
+            "sweet",
+            "home"
+        ],
+        "POS": [
+            "X",
+            "X",
+            "X"
+        ],
+        "DEP": [
+            "home",
+            "home",
+            "home"
+        ]
     },
     "Il doute de rien": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "doute",
+            "de",
+            "rien"
+        ],
+        "LEM": [
+            "il",
+            "doute",
+            "de",
+            "rien"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "ADP",
+            "PRON"
+        ],
+        "DEP": [
+            "doute",
+            "doute",
+            "rien",
+            "doute"
+        ]
     },
     "Il en rêvait, elle l'a fait": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "en",
+            "rêvait",
+            ",",
+            "elle",
+            "l",
+            "a",
+            "fait"
+        ],
+        "LEM": [
+            "il",
+            "en",
+            "rêver",
+            ",",
+            "lui",
+            "l",
+            "avoir",
+            "faire"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "VERB",
+            "PUNCT",
+            "PRON",
+            "PRON",
+            "AUX",
+            "VERB"
+        ],
+        "DEP": [
+            "rêvait",
+            "rêvait",
+            "rêvait",
+            "rêvait",
+            "fait",
+            "fait",
+            "fait",
+            "rêvait"
+        ]
     },
     "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "ne",
+            "faut",
+            "pas",
+            "vendre",
+            "la",
+            "peau",
+            "de",
+            "l",
+            "ours",
+            "avant",
+            "de",
+            "l",
+            "avoir",
+            "tué"
+        ],
+        "LEM": [
+            "il",
+            "ne",
+            "falloir",
+            "pas",
+            "vendre",
+            "le",
+            "peau",
+            "de",
+            "l",
+            "ours",
+            "avant",
+            "de",
+            "l",
+            "avoir",
+            "tuer"
+        ],
+        "POS": [
+            "PRON",
+            "ADV",
+            "VERB",
+            "ADV",
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "ADP",
+            "PRON",
+            "AUX",
+            "VERB"
+        ],
+        "DEP": [
+            "faut",
+            "faut",
+            "faut",
+            "faut",
+            "faut",
+            "peau",
+            "vendre",
+            "ours",
+            "ours",
+            "peau",
+            "tué",
+            "tué",
+            "tué",
+            "tué",
+            "vendre"
+        ]
     },
     "Il y a comme un os": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "y",
+            "a",
+            "comme",
+            "un",
+            "os"
+        ],
+        "LEM": [
+            "il",
+            "y",
+            "avoir",
+            "comme",
+            "un",
+            "os"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "a",
+            "a",
+            "a",
+            "os",
+            "os",
+            "a"
+        ]
     },
     "Il y a loin de la coupe aux lèvres, coupe budgétaire": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "il",
+            "y",
+            "a",
+            "loin",
+            "de",
+            "la",
+            "coupe",
+            "aux",
+            "lèvres",
+            ",",
+            "coupe",
+            "budgétaire"
+        ],
+        "LEM": [
+            "il",
+            "y",
+            "avoir",
+            "loin",
+            "de",
+            "le",
+            "coupe",
+            "à",
+            "lèvre",
+            ",",
+            "coupe",
+            "budgétaire"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "a",
+            "a",
+            "a",
+            "a",
+            "coupe",
+            "coupe",
+            "a",
+            "lèvres",
+            "coupe",
+            "a",
+            "coupe",
+            "coupe"
+        ]
     },
     "L'affaire est dans le sac": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "l",
+            "affaire",
+            "est",
+            "dans",
+            "le",
+            "sac"
+        ],
+        "LEM": [
+            "l",
+            "affaire",
+            "être",
+            "dans",
+            "le",
+            "sac"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "affaire",
+            "sac",
+            "sac",
+            "sac",
+            "sac",
+            "sac"
+        ]
     },
     "l'art de X, noyer le poisson": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "l",
+            "art",
+            "de",
+            "x",
+            ",",
+            "noyer",
+            "le",
+            "poisson"
+        ],
+        "LEM": [
+            "l",
+            "art",
+            "de",
+            "x",
+            ",",
+            "noyer",
+            "le",
+            "poisson"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "art",
+            "art",
+            "x",
+            "art",
+            " ",
+            " ",
+            "poisson",
+            "noyer"
+        ]
     },
     "la belle au bois dormant": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "belle",
+            "au",
+            "bois",
+            "dormant"
+        ],
+        "LEM": [
+            "le",
+            "belle",
+            "au",
+            "bois",
+            "dormant"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "belle",
+            "belle",
+            "bois",
+            "belle",
+            "bois"
+        ]
     },
     "La belle et la bête": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "belle",
+            "et",
+            "la",
+            "bête"
+        ],
+        "LEM": [
+            "le",
+            "bel",
+            "et",
+            "le",
+            "bête"
+        ],
+        "POS": [
+            "DET",
+            "ADJ",
+            "CCONJ",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "belle",
+            "belle",
+            "bête",
+            "bête",
+            "belle"
+        ]
     },
     "la chambre des pairs": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "chambre",
+            "des",
+            "pairs"
+        ],
+        "LEM": [
+            "le",
+            "chambre",
+            "de",
+            "pair"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "chambre",
+            "chambre",
+            "pairs",
+            "chambre"
+        ]
     },
     "la langue de bois": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "langue",
+            "de",
+            "bois"
+        ],
+        "LEM": [
+            "le",
+            "langue",
+            "de",
+            "bois"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "langue",
+            "langue",
+            "bois",
+            "langue"
+        ]
     },
     "la ligne de mire": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "la",
+            "ligne",
+            "de",
+            "mire"
+        ],
+        "LEM": [
+            "le",
+            "ligne",
+            "de",
+            "mire"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "ligne",
+            "ligne",
+            "mire",
+            "ligne"
+        ]
     },
     "Les plus chanceux meurent en premier": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "les",
+            "plus",
+            "chanceux",
+            "meurent",
+            "en",
+            "premier"
+        ],
+        "LEM": [
+            "le",
+            "plus",
+            "chanceux",
+            "mourir",
+            "en",
+            "premier"
+        ],
+        "POS": [
+            "DET",
+            "ADV",
+            "ADJ",
+            "VERB",
+            "ADP",
+            "ADJ"
+        ],
+        "DEP": [
+            "chanceux",
+            "chanceux",
+            "meurent",
+            "meurent",
+            "premier",
+            "meurent"
+        ]
     },
     "le cadet de ses soucis": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "cadet",
+            "de",
+            "ses",
+            "soucis"
+        ],
+        "LEM": [
+            "le",
+            "cadet",
+            "de",
+            "son",
+            "souci"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "cadet",
+            "cadet",
+            "soucis",
+            "soucis",
+            "cadet"
+        ]
     },
     "le cessez-le-feu": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "cessez",
+            "le",
+            "feu"
+        ],
+        "LEM": [
+            "le",
+            "cesser",
+            "le",
+            "feu"
+        ],
+        "POS": [
+            "DET",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "cessez",
+            "cessez",
+            "feu",
+            "cessez"
+        ]
     },
     "Le crime est un poison. Voici l'antidote": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "crime",
+            "est",
+            "un",
+            "poison",
+            ".",
+            "voici",
+            "l",
+            "antidote"
+        ],
+        "LEM": [
+            "le",
+            "crime",
+            "être",
+            "un",
+            "poison",
+            ".",
+            "voici",
+            "l",
+            "antidote"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "crime",
+            "poison",
+            "poison",
+            "poison",
+            "poison",
+            "poison",
+            " ",
+            "antidote",
+            "voici"
+        ]
     },
     "le doigt d'honneur": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "doigt",
+            "d",
+            "honneur"
+        ],
+        "LEM": [
+            "le",
+            "doigt",
+            "d",
+            "honneur"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "doigt",
+            "doigt",
+            "honneur",
+            "doigt"
+        ]
     },
     "le fait divers": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "fait",
+            "divers"
+        ],
+        "LEM": [
+            "le",
+            "fait",
+            "divers"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "fait",
+            "fait",
+            "fait"
+        ]
     },
     "Le futur commence": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "futur",
+            "commence"
+        ],
+        "LEM": [
+            "le",
+            "futur",
+            "commencer"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "VERB"
+        ],
+        "DEP": [
+            "futur",
+            "commence",
+            "commence"
+        ]
     },
     "le marché noir": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "marché",
+            "noir"
+        ],
+        "LEM": [
+            "le",
+            "marché",
+            "noir"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "marché",
+            "marché",
+            "marché"
+        ]
     },
     "le rideau de fer,baisser le rideau": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "rideau",
+            "de",
+            "fer",
+            ",",
+            "baisser",
+            "le",
+            "rideau"
+        ],
+        "LEM": [
+            "le",
+            "rideau",
+            "de",
+            "fer",
+            ",",
+            "baisser",
+            "le",
+            "rideau"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "rideau",
+            "rideau",
+            "fer",
+            "rideau",
+            "baisser",
+            "baisser",
+            "rideau",
+            "baisser"
+        ]
     },
     "le tapis rouge": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "tapis",
+            "rouge"
+        ],
+        "LEM": [
+            "le",
+            "tapis",
+            "rouge"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "tapis",
+            "tapis",
+            "tapis"
+        ]
     },
     "le train-train, train en retard": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "train",
+            "train",
+            ",",
+            "train",
+            "en",
+            "retard"
+        ],
+        "LEM": [
+            "le",
+            "train",
+            "train",
+            ",",
+            "train",
+            "en",
+            "retard"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "train",
+            "train",
+            "train",
+            "train",
+            "train",
+            "retard",
+            "train"
+        ]
     },
     "le travail à la chaîne, la chaîne de télé": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "le",
+            "travail",
+            "à",
+            "la",
+            "chaîne",
+            ",",
+            "la",
+            "chaîne",
+            "de",
+            "télé"
+        ],
+        "LEM": [
+            "le",
+            "travail",
+            "à",
+            "le",
+            "chaîne",
+            ",",
+            "le",
+            "chaîne",
+            "de",
+            "télé"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "travail",
+            "travail",
+            "chaîne",
+            "chaîne",
+            "travail",
+            " ",
+            "chaîne",
+            " ",
+            "télé",
+            "chaîne"
+        ]
     },
     "L'histoire d'un jeune homme qui s'intéresse principalement à l'ultra-violence et à Beethoven !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "l",
+            "histoire",
+            "d",
+            "un",
+            "jeune",
+            "homme",
+            "qui",
+            "s",
+            "intéresse",
+            "principalement",
+            "à",
+            "l",
+            "ultra",
+            "violence",
+            "et",
+            "à",
+            "beethoven",
+            "!"
+        ],
+        "LEM": [
+            "l",
+            "histoire",
+            "d",
+            "un",
+            "jeune",
+            "homme",
+            "qui",
+            "s",
+            "intéresser",
+            "principalement",
+            "à",
+            "l",
+            "ultra",
+            "violence",
+            "et",
+            "à",
+            "beethoven",
+            "!"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "ADJ",
+            "NOUN",
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "ADJ",
+            "NOUN",
+            "CCONJ",
+            "ADP",
+            "PROPN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "histoire",
+            "histoire",
+            "homme",
+            "homme",
+            "homme",
+            "histoire",
+            "intéresse",
+            "intéresse",
+            "homme",
+            "intéresse",
+            "violence",
+            "violence",
+            "violence",
+            "intéresse",
+            "beethoven",
+            "beethoven",
+            "violence",
+            " "
+        ]
     },
     "lignes à grande vitesse": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "lignes",
+            "à",
+            "grande",
+            "vitesse"
+        ],
+        "LEM": [
+            "ligne",
+            "à",
+            "grand",
+            "vitesse"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "lignes",
+            "vitesse",
+            "vitesse",
+            "lignes"
+        ]
     },
     "mettre en boite": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "mettre",
+            "en",
+            "boite"
+        ],
+        "LEM": [
+            "mettre",
+            "en",
+            "boite"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "mettre",
+            "boite",
+            "mettre"
+        ]
     },
     "mettre la main": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "mettre",
+            "la",
+            "main"
+        ],
+        "LEM": [
+            "mettre",
+            "le",
+            "main"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "mettre",
+            "main",
+            "mettre"
+        ]
     },
     "mine de rien": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "mine",
+            "de",
+            "rien"
+        ],
+        "LEM": [
+            "mine",
+            "de",
+            "rien"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "PRON"
+        ],
+        "DEP": [
+            "mine",
+            "rien",
+            "mine"
+        ]
     },
     "montée de fièvre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "montée",
+            "de",
+            "fièvre"
+        ],
+        "LEM": [
+            "montée",
+            "de",
+            "fièvre"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "montée",
+            "fièvre",
+            "montée"
+        ]
     },
     "Métro, boulot dodo": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "métro",
+            ",",
+            "boulot",
+            "dodo"
+        ],
+        "LEM": [
+            "métro",
+            ",",
+            "boulot",
+            "dodo"
+        ],
+        "POS": [
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "PROPN"
+        ],
+        "DEP": [
+            "métro",
+            " ",
+            "métro",
+            "boulot"
+        ]
     },
     "Nous allons vous manger !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "nous",
+            "allons",
+            "vous",
+            "manger",
+            "!"
+        ],
+        "LEM": [
+            "nous",
+            "aller",
+            "vous",
+            "manger",
+            "!"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "PRON",
+            "VERB",
+            "PUNCT"
+        ],
+        "DEP": [
+            "allons",
+            "allons",
+            "manger",
+            "allons",
+            "!"
+        ]
     },
     "noyer le poisson": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "noyer",
+            "le",
+            "poisson"
+        ],
+        "LEM": [
+            "noyer",
+            "le",
+            "poisson"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "noyer",
+            "poisson",
+            "noyer"
+        ]
     },
     "Omar ne sait pas écrire": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "omar",
+            "ne",
+            "sait",
+            "pas",
+            "écrire"
+        ],
+        "LEM": [
+            "omar",
+            "ne",
+            "savoir",
+            "pas",
+            "écrire"
+        ],
+        "POS": [
+            "PROPN",
+            "ADV",
+            "VERB",
+            "ADV",
+            "VERB"
+        ],
+        "DEP": [
+            "sait",
+            "sait",
+            "sait",
+            "sait",
+            "écrire"
+        ]
     },
     "On ne peut pas avoir 500 millions d'amis sans se faire quelques ennemis": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "on",
+            "ne",
+            "peut",
+            "pas",
+            "avoir",
+            "500",
+            "millions",
+            "d",
+            "amis",
+            "sans",
+            "se",
+            "faire",
+            "quelques",
+            "ennemis"
+        ],
+        "LEM": [
+            "on",
+            "ne",
+            "pouvoir",
+            "pas",
+            "avoir",
+            "500",
+            "million",
+            "d",
+            "ami",
+            "sans",
+            "se",
+            "faire",
+            "quelque",
+            "ennemi"
+        ],
+        "POS": [
+            "PRON",
+            "ADV",
+            "VERB",
+            "ADV",
+            "VERB",
+            "NUM",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "ADP",
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "peut",
+            "peut",
+            "peut",
+            "peut",
+            "peut",
+            "millions",
+            "avoir",
+            "amis",
+            "millions",
+            "faire",
+            "faire",
+            "avoir",
+            "ennemis",
+            "faire"
+        ]
     },
     "opération mains propres": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "opération",
+            "mains",
+            "propres"
+        ],
+        "LEM": [
+            "opération",
+            "main",
+            "propre"
+        ],
+        "POS": [
+            "NOUN",
+            "NOUN",
+            "ADJ"
+        ],
+        "DEP": [
+            "opération",
+            "opération",
+            "mains"
+        ]
     },
     "passager de première classe": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "passager",
+            "de",
+            "première",
+            "classe"
+        ],
+        "LEM": [
+            "passager",
+            "de",
+            "premier",
+            "classe"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "ADJ",
+            "NOUN"
+        ],
+        "DEP": [
+            "passager",
+            "classe",
+            "classe",
+            "passager"
+        ]
     },
     "permis de conduire": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "permis",
+            "de",
+            "conduire"
+        ],
+        "LEM": [
+            "permis",
+            "de",
+            "conduire"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "VERB"
+        ],
+        "DEP": [
+            "permis",
+            "conduire",
+            "permis"
+        ]
     },
     "Plus vite, plus haut, plus fort": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "plus",
+            "vite",
+            ",",
+            "plus",
+            "haut",
+            ",",
+            "plus",
+            "fort"
+        ],
+        "LEM": [
+            "plus",
+            "vite",
+            ",",
+            "plus",
+            "haut",
+            ",",
+            "plus",
+            "fort"
+        ],
+        "POS": [
+            "ADV",
+            "ADV",
+            "PUNCT",
+            "ADV",
+            "ADJ",
+            "PUNCT",
+            "ADV",
+            "ADJ"
+        ],
+        "DEP": [
+            "vite",
+            " ",
+            " ",
+            "haut",
+            " ",
+            " ",
+            "fort",
+            " "
+        ]
     },
     "prendre ses cliques et ses claques": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "prendre",
+            "ses",
+            "cliques",
+            "et",
+            "ses",
+            "claques"
+        ],
+        "LEM": [
+            "prendre",
+            "son",
+            "clique",
+            "et",
+            "son",
+            "claque"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "CCONJ",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "prendre",
+            "cliques",
+            "prendre",
+            "claques",
+            "claques",
+            "cliques"
+        ]
     },
     "prendre son pied": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "prendre",
+            "son",
+            "pied"
+        ],
+        "LEM": [
+            "prendre",
+            "son",
+            "pied"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "prendre",
+            "pied",
+            "prendre"
+        ]
     },
     "Prenez l'escalier ! Prenez l'escalier ! Par pitié prenez l'escalier !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "prenez",
+            "l",
+            "escalier",
+            "!",
+            "prenez",
+            "l",
+            "escalier",
+            "!",
+            "par",
+            "pitié",
+            "prenez",
+            "l",
+            "escalier",
+            "!"
+        ],
+        "LEM": [
+            "prendre",
+            "l",
+            "escalier",
+            "!",
+            "prendre",
+            "l",
+            "escalier",
+            "!",
+            "par",
+            "pitié",
+            "prendre",
+            "l",
+            "escalier",
+            "!"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "ADP",
+            "NOUN",
+            "VERB",
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "prenez",
+            "escalier",
+            "prenez",
+            "prenez",
+            "prenez",
+            "escalier",
+            "prenez",
+            "prenez",
+            "pitié",
+            "prenez",
+            " ",
+            "escalier",
+            "prenez",
+            " "
+        ]
     },
     "Quand la violence s'empare du monde, priez pour qu'il soit là...": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "quand",
+            "la",
+            "violence",
+            "s",
+            "empare",
+            "du",
+            "monde",
+            ",",
+            "priez",
+            "pour",
+            "qu",
+            "il",
+            "soit",
+            "là",
+            ".",
+            ".",
+            "."
+        ],
+        "LEM": [
+            "quand",
+            "le",
+            "violence",
+            "s",
+            "emparer",
+            "de",
+            "monde",
+            ",",
+            "prier",
+            "pour",
+            "qu",
+            "il",
+            "être",
+            "là",
+            ".",
+            ".",
+            "."
+        ],
+        "POS": [
+            "SCONJ",
+            "DET",
+            "NOUN",
+            "PRON",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "SCONJ",
+            "PRON",
+            "AUX",
+            "ADV",
+            "PUNCT",
+            "PUNCT",
+            "PUNCT"
+        ],
+        "DEP": [
+            "empare",
+            "violence",
+            "empare",
+            "empare",
+            " ",
+            "monde",
+            "empare",
+            " ",
+            "priez",
+            "là",
+            "là",
+            "là",
+            "là",
+            "priez",
+            "priez",
+            " ",
+            " "
+        ]
     },
     "Quand on n'a que l'amour": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "quand",
+            "on",
+            "n",
+            "a",
+            "que",
+            "l",
+            "amour"
+        ],
+        "LEM": [
+            "quand",
+            "on",
+            "ne",
+            "avoir",
+            "que",
+            "l",
+            "amour"
+        ],
+        "POS": [
+            "SCONJ",
+            "PRON",
+            "ADV",
+            "VERB",
+            "ADV",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "a",
+            "a",
+            "a",
+            "a",
+            "amour",
+            "amour",
+            "a"
+        ]
     },
     "Quel que soit le vainqueur... Nous perdons": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "quel",
+            "que",
+            "soit",
+            "le",
+            "vainqueur",
+            ".",
+            ".",
+            ".",
+            "nous",
+            "perdons"
+        ],
+        "LEM": [
+            "quel",
+            "que",
+            "être",
+            "le",
+            "vainqueur",
+            ".",
+            ".",
+            ".",
+            "nous",
+            "perdre"
+        ],
+        "POS": [
+            "ADJ",
+            "PRON",
+            "AUX",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "PUNCT",
+            "PUNCT",
+            "PRON",
+            "VERB"
+        ],
+        "DEP": [
+            "quel",
+            "quel",
+            "que",
+            "vainqueur",
+            "que",
+            "quel",
+            ".",
+            ".",
+            "perdons",
+            " "
+        ]
     },
     "Qui l'eût cru?": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "qui",
+            "l",
+            "eût",
+            "cru",
+            "?"
+        ],
+        "LEM": [
+            "qui",
+            "l",
+            "avoir",
+            "croire",
+            "?"
+        ],
+        "POS": [
+            "PRON",
+            "PRON",
+            "AUX",
+            "VERB",
+            "PUNCT"
+        ],
+        "DEP": [
+            "cru",
+            "cru",
+            "cru",
+            "cru",
+            "?"
+        ]
     },
     "redorer son image": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "redorer",
+            "son",
+            "image"
+        ],
+        "LEM": [
+            "redorer",
+            "son",
+            "image"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "redorer",
+            "image",
+            "redorer"
+        ]
     },
     "règlement de compte": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "règlement",
+            "de",
+            "compte"
+        ],
+        "LEM": [
+            "règlement",
+            "de",
+            "compte"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "règlement",
+            "compte",
+            "règlement"
+        ]
     },
     "régler leur compte": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "régler",
+            "leur",
+            "compte"
+        ],
+        "LEM": [
+            "régler",
+            "son",
+            "compte"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "régler",
+            "compte",
+            "régler"
+        ]
     },
     "samedi des cendres": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "samedi",
+            "des",
+            "cendres"
+        ],
+        "LEM": [
+            "samedi",
+            "un",
+            "cendre"
+        ],
+        "POS": [
+            "NOUN",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "samedi",
+            "cendres",
+            "samedi"
+        ]
     },
     "sauter en parachute": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "sauter",
+            "en",
+            "parachute"
+        ],
+        "LEM": [
+            "sauter",
+            "en",
+            "parachute"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "sauter",
+            "parachute",
+            "sauter"
+        ]
     },
     "s'envoyer en l'air": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "s",
+            "envoyer",
+            "en",
+            "l",
+            "air"
+        ],
+        "LEM": [
+            "s",
+            "envoyer",
+            "en",
+            "l",
+            "air"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "envoyer",
+            "envoyer",
+            "air",
+            "air",
+            "envoyer"
+        ]
     },
     "se voiler la face": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "se",
+            "voiler",
+            "la",
+            "face"
+        ],
+        "LEM": [
+            "se",
+            "voiler",
+            "le",
+            "face"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "voiler",
+            "voiler",
+            "face",
+            "voiler"
+        ]
     },
     "Taxe à valeur ajoutée": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "taxe",
+            "à",
+            "valeur",
+            "ajoutée"
+        ],
+        "LEM": [
+            "taxe",
+            "à",
+            "valeur",
+            "ajouter"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "VERB"
+        ],
+        "DEP": [
+            "taxe",
+            "valeur",
+            "taxe",
+            "valeur"
+        ]
     },
     "Touche pas à mon pote": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "touche",
+            "pas",
+            "à",
+            "mon",
+            "pote"
+        ],
+        "LEM": [
+            "toucher",
+            "pas",
+            "à",
+            "mon",
+            "pote"
+        ],
+        "POS": [
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "touche",
+            "touche",
+            "pote",
+            "pote",
+            "touche"
+        ]
     },
     "tourner autour du pot": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tourner",
+            "autour",
+            "du",
+            "pot"
+        ],
+        "LEM": [
+            "tourner",
+            "autour",
+            "de",
+            "pot"
+        ],
+        "POS": [
+            "VERB",
+            "ADV",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "tourner",
+            "tourner",
+            "pot",
+            "autour"
+        ]
     },
     "tourner la page": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tourner",
+            "la",
+            "page"
+        ],
+        "LEM": [
+            "tourner",
+            "le",
+            "page"
+        ],
+        "POS": [
+            "VERB",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "tourner",
+            "page",
+            "tourner"
+        ]
     },
     "Tous les chemins mènent à Rome": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "tous",
+            "les",
+            "chemins",
+            "mènent",
+            "à",
+            "rome"
+        ],
+        "LEM": [
+            "tout",
+            "le",
+            "chemin",
+            "mener",
+            "à",
+            "rome"
+        ],
+        "POS": [
+            "ADJ",
+            "DET",
+            "NOUN",
+            "VERB",
+            "ADP",
+            "PROPN"
+        ],
+        "DEP": [
+            "chemins",
+            "chemins",
+            "mènent",
+            "mènent",
+            "rome",
+            "mènent"
+        ]
     },
     "trousse de secours": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "trousse",
+            "de",
+            "secours"
+        ],
+        "LEM": [
+            "trousse",
+            "de",
+            "secours"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "trousse",
+            "secours",
+            "trousse"
+        ]
     },
     "Une bonne bouchée en mérite une deuxième !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "une",
+            "bonne",
+            "bouchée",
+            "en",
+            "mérite",
+            "une",
+            "deuxième",
+            "!"
+        ],
+        "LEM": [
+            "un",
+            "bon",
+            "bouchée",
+            "en",
+            "mérite",
+            "un",
+            "deuxième",
+            "!"
+        ],
+        "POS": [
+            "DET",
+            "ADJ",
+            "NOUN",
+            "PRON",
+            "VERB",
+            "DET",
+            "ADJ",
+            "PUNCT"
+        ],
+        "DEP": [
+            "bouchée",
+            "bouchée",
+            "mérite",
+            "mérite",
+            "mérite",
+            "deuxième",
+            "mérite",
+            " "
+        ]
     },
     "Une comédie romantique. Avec des zombies": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "une",
+            "comédie",
+            "romantique",
+            ".",
+            "avec",
+            "des",
+            "zombies"
+        ],
+        "LEM": [
+            "un",
+            "comédie",
+            "romantique",
+            ".",
+            "avec",
+            "un",
+            "zombie"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADJ",
+            "PUNCT",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "comédie",
+            "comédie",
+            "comédie",
+            "comédie",
+            "zombies",
+            "zombies",
+            " "
+        ]
     },
     "un chèque en bois": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "un",
+            "chèque",
+            "en",
+            "bois"
+        ],
+        "LEM": [
+            "un",
+            "chèque",
+            "en",
+            "bois"
+        ],
+        "POS": [
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "chèque",
+            "chèque",
+            "bois",
+            "chèque"
+        ]
     },
     "un couvre-chef, chef d'entreprise": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "un",
+            "couvre",
+            "chef",
+            ",",
+            "chef",
+            "d",
+            "entreprise"
+        ],
+        "LEM": [
+            "un",
+            "couvrir",
+            "chef",
+            ",",
+            "chef",
+            "d",
+            "entreprise"
+        ],
+        "POS": [
+            "DET",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "couvre",
+            "chef",
+            "chef",
+            " ",
+            " ",
+            "entreprise",
+            "chef"
+        ]
     },
     "Un de perdu dix de retrouvés": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "un",
+            "de",
+            "perdu",
+            "dix",
+            "de",
+            "retrouvés"
+        ],
+        "LEM": [
+            "un",
+            "de",
+            "perdre",
+            "dix",
+            "de",
+            "retrouver"
+        ],
+        "POS": [
+            "PRON",
+            "ADP",
+            "VERB",
+            "PRON",
+            "ADP",
+            "VERB"
+        ],
+        "DEP": [
+            "un",
+            "un",
+            "un",
+            "dix",
+            "retrouvés",
+            "dix"
+        ]
     },
     "Un pour tous, tous pour un": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "un",
+            "pour",
+            "tous",
+            ",",
+            "tous",
+            "pour",
+            "un"
+        ],
+        "LEM": [
+            "un",
+            "pour",
+            "tout",
+            ",",
+            "tout",
+            "pour",
+            "un"
+        ],
+        "POS": [
+            "PRON",
+            "ADP",
+            "PRON",
+            "PUNCT",
+            "ADJ",
+            "ADP",
+            "DET"
+        ],
+        "DEP": [
+            "un",
+            "tous",
+            "un",
+            "un",
+            "un",
+            "un",
+            "tous"
+        ]
     },
     "voler dans les plumes": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "voler",
+            "dans",
+            "les",
+            "plumes"
+        ],
+        "LEM": [
+            "voler",
+            "dans",
+            "le",
+            "plume"
+        ],
+        "POS": [
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "voler",
+            "plumes",
+            "plumes",
+            "voler"
+        ]
     },
     "Vous ne la connaissez pas encore mais elle vous déteste déjà": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "vous",
+            "ne",
+            "la",
+            "connaissez",
+            "pas",
+            "encore",
+            "mais",
+            "elle",
+            "vous",
+            "déteste",
+            "déjà"
+        ],
+        "LEM": [
+            "vous",
+            "ne",
+            "le",
+            "connaître",
+            "pas",
+            "encore",
+            "mais",
+            "lui",
+            "vous",
+            "détester",
+            "déjà"
+        ],
+        "POS": [
+            "PRON",
+            "ADV",
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADV",
+            "CCONJ",
+            "PRON",
+            "PRON",
+            "VERB",
+            "ADV"
+        ],
+        "DEP": [
+            "connaissez",
+            "connaissez",
+            "connaissez",
+            "connaissez",
+            "encore",
+            "connaissez",
+            "déteste",
+            "déteste",
+            "déteste",
+            "connaissez",
+            "déteste"
+        ]
     },
     "We are going to eat you !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "we",
+            "are",
+            "going",
+            "to",
+            "eat",
+            "you",
+            "!"
+        ],
+        "LEM": [
+            "we",
+            "are",
+            "going",
+            "to",
+            "eat",
+            "you",
+            "!"
+        ],
+        "POS": [
+            "X",
+            "AUX",
+            "X",
+            "X",
+            "X",
+            "X",
+            "PUNCT"
+        ],
+        "DEP": [
+            "going",
+            "going",
+            "going",
+            "eat",
+            "going",
+            "eat",
+            "!"
+        ]
     },
     "Y a pas le feu au lac": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "y",
+            "a",
+            "pas",
+            "le",
+            "feu",
+            "au",
+            "lac"
+        ],
+        "LEM": [
+            "y",
+            "avoir",
+            "pas",
+            "le",
+            "feu",
+            "au",
+            "lac"
+        ],
+        "POS": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "a",
+            "a",
+            "a",
+            "feu",
+            "a",
+            "lac",
+            "a"
+        ]
     },
     "zéro de conduite": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "zéro",
+            "de",
+            "conduite"
+        ],
+        "LEM": [
+            "zéro",
+            "de",
+            "conduite"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "zéro",
+            "conduite",
+            "zéro"
+        ]
     },
     "À bon entendeur, salut !": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "bon",
+            "entendeur",
+            ",",
+            "salut",
+            "!"
+        ],
+        "LEM": [
+            "à",
+            "bon",
+            "entendeur",
+            ",",
+            "salut",
+            "!"
+        ],
+        "POS": [
+            "ADP",
+            "ADJ",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "PUNCT"
+        ],
+        "DEP": [
+            "entendeur",
+            "entendeur",
+            "entendeur",
+            " ",
+            "salut",
+            " "
+        ]
     },
     "à bras le corps": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "bras",
+            "le",
+            "corps"
+        ],
+        "LEM": [
+            "à",
+            "bras",
+            "le",
+            "corps"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "bras",
+            "bras",
+            "corps",
+            "bras"
+        ]
     },
     "à feu et à sang": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "feu",
+            "et",
+            "à",
+            "sang"
+        ],
+        "LEM": [
+            "à",
+            "feu",
+            "et",
+            "à",
+            "sang"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "CCONJ",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "feu",
+            "feu",
+            "sang",
+            "sang",
+            "feu"
+        ]
     },
     "à fleur de peau, couleur de peau": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "fleur",
+            "de",
+            "peau",
+            ",",
+            "couleur",
+            "de",
+            "peau"
+        ],
+        "LEM": [
+            "à",
+            "fleur",
+            "de",
+            "peau",
+            ",",
+            "couleur",
+            "de",
+            "peau"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "fleur",
+            "fleur",
+            "peau",
+            "fleur",
+            " ",
+            " ",
+            "peau",
+            "couleur"
+        ]
     },
     "à fond la caisse": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "à",
+            "fond",
+            "la",
+            "caisse"
+        ],
+        "LEM": [
+            "à",
+            "fond",
+            "le",
+            "caisse"
+        ],
+        "POS": [
+            "ADP",
+            "NOUN",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "fond",
+            "fond",
+            "caisse",
+            "fond"
+        ]
     },
     "État de siège": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "état",
+            "de",
+            "siège"
+        ],
+        "LEM": [
+            "état",
+            "de",
+            "siège"
+        ],
+        "POS": [
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "état",
+            "siège",
+            "état"
+        ]
     },
     "être copains comme cochons": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "copains",
+            "comme",
+            "cochons"
+        ],
+        "LEM": [
+            "être",
+            "copain",
+            "comme",
+            "cochon"
+        ],
+        "POS": [
+            "AUX",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "copains",
+            "copains",
+            "cochons",
+            "cochons"
+        ]
     },
     "être dans les choux": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "dans",
+            "les",
+            "choux"
+        ],
+        "LEM": [
+            "être",
+            "dans",
+            "le",
+            "chou"
+        ],
+        "POS": [
+            "AUX",
+            "ADP",
+            "DET",
+            "NOUN"
+        ],
+        "DEP": [
+            "choux",
+            "choux",
+            "choux",
+            "choux"
+        ]
     },
     "être en guerre": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "en",
+            "guerre"
+        ],
+        "LEM": [
+            "être",
+            "en",
+            "guerre"
+        ],
+        "POS": [
+            "AUX",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "guerre",
+            "guerre",
+            "guerre"
+        ]
     },
     "être fier comme Artaban": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "fier",
+            "comme",
+            "artaban"
+        ],
+        "LEM": [
+            "être",
+            "fier",
+            "comme",
+            "artaban"
+        ],
+        "POS": [
+            "AUX",
+            "ADJ",
+            "ADP",
+            "PROPN"
+        ],
+        "DEP": [
+            "fier",
+            "fier",
+            "artaban",
+            "fier"
+        ]
     },
     "être simple comme un coup de fil": {
         "correction": "NO",
-        "kept": true
+        "kept": true,
+        "TOK": [
+            "être",
+            "simple",
+            "comme",
+            "un",
+            "coup",
+            "de",
+            "fil"
+        ],
+        "LEM": [
+            "être",
+            "simple",
+            "comme",
+            "un",
+            "coup",
+            "de",
+            "fil"
+        ],
+        "POS": [
+            "AUX",
+            "ADJ",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "NOUN"
+        ],
+        "DEP": [
+            "simple",
+            "simple",
+            "coup",
+            "coup",
+            "simple",
+            "fil",
+            "coup"
+        ]
     }
 }

@@ -1,5 +1,5 @@
 import os
-from .manageFile import *
+from .utils import *
 
 def getPath(seed):
 	"""get the output path for a given seed"""
@@ -22,7 +22,7 @@ def correctSeeds():
 		if values["correction"] != "NO":
 			data = openJson(getPath(seed))
 			for entry in data:
-				entry["parenté"]["seed"] = values["correction"]
+				entry["paired_with"]["seed"] = values["correction"]
 			new_path = "output/" + "".join(x for x in values["correction"].replace(" ","_") if x.isalnum() or x == "_") + ".json"
 			os.remove(getPath(seed))
 			writeJson(new_path,data)

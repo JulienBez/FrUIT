@@ -65,9 +65,9 @@ def parseSeeds():
 
 def parseTweets():
     """for each tweet do NLP treatment on it"""
-    for path in glob.glob("output/*.json"):
+    for path in tqdm(glob.glob("output/*.json")):
         data = openJson(path)
         for entry in data:
-            tweet = entry["tweet"]
+            tweet = entry["sent"]
             entry["parsing"] = myParser(tweet)
         writeJson(path,data)

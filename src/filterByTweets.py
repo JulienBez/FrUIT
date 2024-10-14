@@ -1,5 +1,5 @@
 import os
-from .manageFile import *
+from .utils import *
 
 def loadFilters():
 	"""create a filter metadata file if not exists"""
@@ -17,7 +17,7 @@ def initialNumbers():
 	filters["initialNumbers"] = {}
 	for path in glob.glob("output/*.json"):
 		data = openJson(path)
-		filters["initialNumbers"][data[0]["parenté"]["seed"]] = len(data)
+		filters["initialNumbers"][data[0]["paired_with"]["seed"]] = len(data)
 	writeJson("logs/filters.json",filters)
 
 
@@ -30,7 +30,7 @@ def deleteIdsDuplicates():
 	for path in glob.glob("output/*.json"):
 
 		data = openJson(path)
-		seed = data[0]["parenté"]["seed"]
+		seed = data[0]["paired_with"]["seed"]
 		filters["deleteDuplicates"][seed] = 0
 
 		seedsCheck = []
@@ -60,7 +60,7 @@ def deleteContentDuplicates():
 	for path in glob.glob("output/*.json"):
 
 		data = openJson(path)
-		seed = data[0]["parenté"]["seed"]
+		seed = data[0]["paired_with"]["seed"]
 		filters["deleteContentDuplicates"][seed] = 0
 
 		tweetCheck = []
@@ -68,7 +68,7 @@ def deleteContentDuplicates():
 	
 		for entry in data:
       
-			tweet = entry["tweet"]
+			tweet = entry["sent"]
 
 			if tweet not in tweetCheck:
 				tweetCheck.append(tweet)
@@ -93,7 +93,7 @@ def deleteDuplicatesMore():
 	for path in glob.glob("output/*.json"):
 
 		data = openJson(path)
-		seed = data[0]["parenté"]["seed"]
+		seed = data[0]["paired_with"]["seed"]
 
 		if seed not in filters["deleteDuplicatesMore"]:
 			filters["deleteDuplicatesMore"][seed] = 0
@@ -129,10 +129,10 @@ def filterLowest(size=10):
 	for path in glob.glob("output/*.json"):
 		data = openJson(path)
 		if len(data) < size:
-			filters["filterLowest"]["filtered"][data[0]["parenté"]["seed"]] = len(data)
+			filters["filterLowest"]["filtered"][data[0]["paired_with"]["seed"]] = len(data)
 			os.remove(path)
 		else:
-			filters["filterLowest"]["kept"][data[0]["parenté"]["seed"]] = len(data)
+			filters["filterLowest"]["kept"][data[0]["paired_with"]["seed"]] = len(data)
 	writeJson("logs/filters.json",filters)
 
 

@@ -44,7 +44,7 @@ def getWordNumber():
     for path in glob.glob("output/*.json"):
         tweets =  openJson(path)
         for tweet in tweets:
-            total = len(tweet["tweet"].split())
+            total = len(tweet["sent"].split())
             counter += total
     print(f"nombre de mots : {counter}")
 
