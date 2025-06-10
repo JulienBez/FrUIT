@@ -1467,8 +1467,8 @@
             "aimes"
         ]
     },
-    "c'est le deuxième effet Sorbonne": {
-        "correction": "c'est le deuxième effet Kisscool",
+    "c'est le deuxième effet Kisscool": {
+        "correction": "NO",
         "kept": true,
         "TOK": [
             "c",
@@ -1476,7 +1476,7 @@
             "le",
             "deuxième",
             "effet",
-            "sorbonne"
+            "kisscool"
         ],
         "LEM": [
             "c",
@@ -1484,7 +1484,7 @@
             "le",
             "deuxième",
             "effet",
-            "sorbon"
+            "kisscool"
         ],
         "POS": [
             "PRON",
@@ -1492,7 +1492,7 @@
             "DET",
             "ADJ",
             "NOUN",
-            "PROPN"
+            "ADJ"
         ],
         "DEP": [
             "effet",
