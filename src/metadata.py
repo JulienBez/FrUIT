@@ -120,6 +120,7 @@ def collectHistogram():
                 mois.append(d)
                 figements.append(dict[d])
 
+    plt.figure(figsize=(12, 4))
     width = 0.5
     fig, ax = plt.subplots()
     ax.bar(mois,figements,label="collected",width=width,color='cornflowerblue')
