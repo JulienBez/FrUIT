@@ -7,6 +7,8 @@ from src.getTweets import *
 from src.filterBySeeds import *
 from src.filterByTweets import *
 
+collectHistogram()
+1/0
 
 def proceed(args):
 

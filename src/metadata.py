@@ -90,6 +90,45 @@ def filteringStepsMetadata():
     print(f"nb tweets après filtre par seeds : {total_seedsFiltered}")
 
 
+def collectHistogram():
+    "create a histogram that show the number of tweets collected each month"
+    
+    dict = {}
+    mois_num = ["01","02","03","04","05","06","07","08","09","10","11","12"]
+    mois_str = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+    annees = ["2020","2021","2022","2023"]
+
+    for path in glob.glob("output/*.json"):
+        data = openJson(path)
+        for entry in data:
+
+            year = entry["metadata"]["created_at"].split("-")[0]
+            month = mois_str[mois_num.index(entry["metadata"]["created_at"].split("-")[1])]
+            date = f"{month}_{year}"
+
+            if date not in dict:
+                dict[date] = 0 #PMWE candidates
+            dict[date] += 1
+
+    mois = []
+    figements = []
+
+    for y in annees:
+        for m in mois_str:
+            d = f"{m}_{y}"
+            if d in dict.keys():
+                mois.append(d)
+                figements.append(dict[d])
+
+    width = 0.5
+    fig, ax = plt.subplots()
+    ax.bar(mois,figements,label="collected",width=width,color='cornflowerblue')
+    ax.legend()
+    plt.xticks(rotation=50, ha='right')
+    plt.tight_layout()
+    plt.savefig('logs/collect_histogram.png',dpi=1000)
+
+
 def metadata():
     ""
     totalSeeds()
@@ -99,3 +138,4 @@ def metadata():
     getGraph()
     getGraph(logscale=True)
     filteringStepsMetadata()
+    collectHistogram()
