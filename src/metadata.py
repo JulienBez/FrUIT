@@ -90,7 +90,7 @@ def filteringStepsMetadata():
     print(f"nb tweets après filtre par seeds : {total_seedsFiltered}")
 
 
-def collectHistogram():
+def collectHistogram(fontsize=18):
     "create a histogram that show the number of tweets collected each month"
     
     dict = {}
@@ -124,8 +124,9 @@ def collectHistogram():
     width = 0.5
     fig, ax = plt.subplots()
     ax.bar(mois,figements,label="collected",width=width,color='cornflowerblue')
-    ax.legend()
-    plt.xticks(rotation=50, ha='right')
+    ax.legend(fontsize=fontsize)
+    plt.xticks(rotation=50, ha='right',fontsize=fontsize)
+    plt.yticks(fontsize=fontsize)
     plt.tight_layout()
     fig.set_size_inches(16,9)
     plt.savefig('logs/collect_histogram.png',dpi=1000)
